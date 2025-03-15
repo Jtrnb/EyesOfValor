@@ -17,7 +17,7 @@
 - During a hunt you may have many tasks that take longer than one day to do, in this instance you may choose to camp and allow your party to gear up and recover. During this time you may rest and gain their benefits. 
 ## Rest:
 - Rest is something all Valor's have to do, without proper recovery people get hurt. There are two type of rest, each with its own benefits.
-- During rest you may use any items designated with rest aswell as do any rest Act
+- During rest you may use any items designated with rest as well as do any rest Actions you may have. 
 #### Full Rest:
 - A Full Rest is an 8 hour time period of non-strenuous activity, such as sleep. 
 - During a full rest you and your party will regain all of their missing Hitpoints. 
