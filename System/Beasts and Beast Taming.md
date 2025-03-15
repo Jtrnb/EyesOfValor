@@ -26,5 +26,12 @@
 - Once the beast will follow basic commands and join you on some hunts it will require more effort to improve its life and effectiveness. 
 - Through more rigorous training and studying of the beast you will be able to raise it into a wonder companion and partner. 
 ### Taming Wild Beasts:
-
+- Wild beast or Organic Animals have different basic requirements to take them in as pets and companions than their mechanic counter parts. 
+#### Breaking the Ice:
+- To break the ice with a beast you must find a way to lure the beast in, and gain its trust.
+#### Basic Training:
+- Once the beast is comfortable around you and will follow you to some success you will have to train it and keep it happy. Doing so will keep the beast around and unlock its potential.
+#### Companionship :
+- Once the beast will follow basic commands and join you on some hunts it will require more effort to improve its life and effectiveness. 
+- Through more rigorous training and studying of the beast you will be able to raise it into a wonder companion and partner. 
 ### Taming Mechanical Beasts:
