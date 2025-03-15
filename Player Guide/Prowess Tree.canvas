@@ -4083,26 +4083,28 @@
       "y": 490
     },
     {
+      "color": "4",
       "height": 60,
       "id": "c3f3e0cf3800ba57",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Beast Handling",
       "type": "text",
       "width": 140,
       "x": 1620,
       "y": 80
     },
     {
+      "color": "4",
       "height": 60,
       "id": "185c54f56ea01c70",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Beast Handling",
       "type": "text",
       "width": 140,
       "x": 1620,
@@ -4531,7 +4533,7 @@
       "y": -1270
     },
     {
-      "color": "#703c00",
+      "color": "2",
       "height": 60,
       "id": "0ff0fd808f219af5",
       "styleAttributes": {
