@@ -4013,13 +4013,14 @@
       "y": 830
     },
     {
+      "color": "6",
       "height": 60,
       "id": "8f8299d52ad28a48",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": 1620,
@@ -4118,7 +4119,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Munitions Crafting]]",
       "type": "text",
       "width": 140,
       "x": 1620,
