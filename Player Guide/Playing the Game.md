@@ -2,7 +2,8 @@
 ## Downtime:
 - Every game of EoV starts in downtime with you gearing up and preparing for a hunt. 
 - During Downtime you will be interacting with other people and deciding what you should bring on your next hunt. You will be able to pick and choose what items you will bring filling your [[Creating A Character#Capacity:|Capacity]]. 
-- During downtime you will gain the benefits of a Full Rest and any buffs and debuffs will be cleared. (Buff and Debuff)
+- During downtime you will gain the benefits of a Full Rest and any buffs and debuffs will be cleared. (Buff and Debuff dependent). 
 ## Hunts:
+- Hunts are where EoV shines, this is where you will be testing your skills to prove your worth, and survive. 
 
 ## Rest:
