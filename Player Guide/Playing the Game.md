@@ -11,5 +11,9 @@
 	- The GM may choose to change any of the prior rewards and rules.
 - If you fail a Hunt, through either having to leave or dying you will not be rewarded, and you will return to downtime. 
 #### Camping:
-- During a hunt you may have many tasks that take longer than on
+- During a hunt you may have many tasks that take longer than one day to do, in this instance you may choose to camp and allow your party to gear up and recover. During this time you may rest and gain their benefits. 
 ## Rest:
+- Rest is something all Valor's have to do, without proper recovery people get hurt. There are two type of rest, each with its own benefits.
+- During rest you may use any items designated with rest. 
+#### Full Rest:
+- During a full rest you and your party will regain all of their missing Hitpoints. 
