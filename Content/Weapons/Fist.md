@@ -13,4 +13,4 @@
 - On a successful hit you deal (1 + Strength) Blunt damage to the target
 ## Mastery:
 #### Effects:
-- You may add your Strength to the damage of each attack made with this weapon. 
+- You may attack with this weapon twice per <span style="font-weight:bold; color:rgb(33, 235, 60)">Action Point</span> spent to attack.
