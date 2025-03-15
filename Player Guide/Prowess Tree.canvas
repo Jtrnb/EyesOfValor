@@ -3893,7 +3893,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "4 Pts",
+      "text": "2 Pts",
       "type": "text",
       "width": 60,
       "x": -260,
@@ -4307,32 +4307,6 @@
       "y": 280
     },
     {
-      "height": 60,
-      "id": "2e96a6e4d9141230",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "4 Pts",
-      "type": "text",
-      "width": 60,
-      "x": 1580,
-      "y": 590
-    },
-    {
-      "height": 60,
-      "id": "2efb4c38fc386a0f",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "1 pt",
-      "type": "text",
-      "width": 70,
-      "x": 1740,
-      "y": 590
-    },
-    {
       "color": "5",
       "height": 60,
       "id": "67a69fff7e48ce9e",
@@ -4741,32 +4715,6 @@
       "y": -940
     },
     {
-      "height": 60,
-      "id": "d0bbae36a1d95d0b",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "4 Pts",
-      "type": "text",
-      "width": 60,
-      "x": 1580,
-      "y": -630
-    },
-    {
-      "height": 60,
-      "id": "c80168baa6330c40",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "1 pt",
-      "type": "text",
-      "width": 70,
-      "x": 1740,
-      "y": -630
-    },
-    {
       "color": "5",
       "height": 60,
       "id": "f5ab9b7df720f4d9",
@@ -5160,32 +5108,6 @@
       "width": 140,
       "x": -2750,
       "y": 280
-    },
-    {
-      "height": 60,
-      "id": "c80e9cb2c1b8cac4",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "4 Pts",
-      "type": "text",
-      "width": 60,
-      "x": -2100,
-      "y": 590
-    },
-    {
-      "height": 60,
-      "id": "c5794d7a45b8b4f1",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "1 pt",
-      "type": "text",
-      "width": 70,
-      "x": -1940,
-      "y": 590
     },
     {
       "color": "5",
@@ -5596,32 +5518,6 @@
       "y": -940
     },
     {
-      "height": 60,
-      "id": "47815ea454093985",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "4 Pts",
-      "type": "text",
-      "width": 60,
-      "x": -2100,
-      "y": -630
-    },
-    {
-      "height": 60,
-      "id": "31654be01846c908",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "1 pt",
-      "type": "text",
-      "width": 70,
-      "x": -1940,
-      "y": -630
-    },
-    {
       "color": "5",
       "height": 60,
       "id": "5dd208b96476a9c8",
@@ -6016,32 +5912,6 @@
       "y": -1610
     },
     {
-      "height": 60,
-      "id": "17adc597a7a9d017",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "4 Pts",
-      "type": "text",
-      "width": 60,
-      "x": -260,
-      "y": -1300
-    },
-    {
-      "height": 60,
-      "id": "0ae930050a649a0e",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "1 pt",
-      "type": "text",
-      "width": 70,
-      "x": -100,
-      "y": -1300
-    },
-    {
       "color": "5",
       "height": 60,
       "id": "4d3d1e813ef1a0a2",
@@ -6097,19 +5967,6 @@
       "y": 950
     },
     {
-      "height": 60,
-      "id": "0589ff414e627973",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "4 Pts",
-      "type": "text",
-      "width": 60,
-      "x": -260,
-      "y": 1260
-    },
-    {
       "color": "#ac024b",
       "height": 100,
       "id": "44de2a6ef08e25de",
@@ -6138,19 +5995,6 @@
       "width": 100,
       "x": -200,
       "y": 1320
-    },
-    {
-      "height": 60,
-      "id": "890509a94d241f7b",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "1 pt",
-      "type": "text",
-      "width": 70,
-      "x": -100,
-      "y": 1260
     },
     {
       "color": "#660000",
