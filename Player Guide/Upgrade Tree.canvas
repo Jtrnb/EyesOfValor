@@ -76,23 +76,20 @@
       },
       "toNode": "d7ba2a3902f40e18",
       "toSide": "left"
+    },
+    {
+      "fromNode": "f8d2e6b6a6ee4001",
+      "fromSide": "right",
+      "id": "0a7ef8aed8465625",
+      "styleAttributes": {
+        "arrow": "diamond",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "4da90dfe77497928",
+      "toSide": "left"
     }
   ],
   "nodes": [
-    {
-      "color": "6",
-      "height": 120,
-      "id": "24bb820afe2f8d96",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "Upgrade Tree",
-      "type": "text",
-      "width": 130,
-      "x": -180,
-      "y": -10
-    },
     {
       "height": 60,
       "id": "b5a0080f2a360b9e",
@@ -100,9 +97,9 @@
         "shape": "predefined-process",
         "textAlign": "center"
       },
-      "text": "3 Pts",
+      "text": "3 Pts (Max 2 Times)",
       "type": "text",
-      "width": 80,
+      "width": 190,
       "x": 150,
       "y": 130
     },
@@ -117,7 +114,7 @@
       "text": "Increase Speed by 5",
       "type": "text",
       "width": 240,
-      "x": 380,
+      "x": 440,
       "y": 70
     },
     {
@@ -131,48 +128,8 @@
       "text": "Gain a Weapon Mastery",
       "type": "text",
       "width": 240,
-      "x": 380,
+      "x": 440,
       "y": 190
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "0c7a7d6c211a43f9",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "Increase Hitpoints by 2",
-      "type": "text",
-      "width": 240,
-      "x": 380,
-      "y": -160
-    },
-    {
-      "height": 60,
-      "id": "c25dae69ff61d533",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "1 Pt",
-      "type": "text",
-      "width": 80,
-      "x": 150,
-      "y": -160
-    },
-    {
-      "height": 60,
-      "id": "f8d2e6b6a6ee4001",
-      "styleAttributes": {
-        "shape": null,
-        "textAlign": "center"
-      },
-      "text": "2 Pts",
-      "type": "text",
-      "width": 80,
-      "x": 150,
-      "y": -40
     },
     {
       "color": "6",
@@ -185,8 +142,76 @@
       "text": "Increase A Stat by +1",
       "type": "text",
       "width": 240,
-      "x": 380,
+      "x": 440,
       "y": -40
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "24bb820afe2f8d96",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "Upgrade Tree",
+      "type": "text",
+      "width": 130,
+      "x": -180,
+      "y": -40
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "0c7a7d6c211a43f9",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Increase Hitpoints by 2",
+      "type": "text",
+      "width": 240,
+      "x": 440,
+      "y": -300
+    },
+    {
+      "height": 60,
+      "id": "c25dae69ff61d533",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "1 Pt (Max 10 Times)",
+      "type": "text",
+      "width": 190,
+      "x": 150,
+      "y": -300
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "4da90dfe77497928",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "Gain a Weapon Proficiency",
+      "type": "text",
+      "width": 240,
+      "x": 440,
+      "y": -160
+    },
+    {
+      "height": 60,
+      "id": "f8d2e6b6a6ee4001",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "2 Pts (Max 3 Times)",
+      "type": "text",
+      "width": 190,
+      "x": 150,
+      "y": -100
     }
   ]
 }
