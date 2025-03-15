@@ -61,4 +61,4 @@ You be a Valor
 ## Prowess:
 - A characters Prowess is their focus or "class". It determines their starting point on the [[Prowess Tree.canvas|Prowess Tree]] which allows them to take abilities curated to their Prowess. 
 - When leveling up* you will gain Prowess Points to redeem upgrades through the [[Prowess Tree.canvas|Prowess Tree]]. 
-- Each character Starts with  Prowess Points to be used. 
+- Each character Starts with 3 Prowess Points to be used. 
