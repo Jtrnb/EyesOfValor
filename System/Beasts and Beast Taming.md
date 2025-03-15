@@ -32,7 +32,7 @@
 #### Companionship (Loyalty 4-6):
 - Once the beast will follow basic commands and join you on some hunts it will require more effort to improve its life and effectiveness. 
 - Through more rigorous training and studying of the beast you will be able to raise it into a wonder companion and partner. 
-- The Trainability of the beast 6 less. (or 12 less at loyalty 6) 
+- The Trainability of the beast 6 less. (or 12 less at loyalty 6)
 ### Taming Wild Beasts:
 - Wild beast or Organic Animals have different basic requirements to take them in as pets and companions than their mechanic counter parts. 
 #### Breaking the Ice:
