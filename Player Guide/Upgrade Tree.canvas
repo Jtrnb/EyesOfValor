@@ -147,20 +147,6 @@
     },
     {
       "color": "6",
-      "height": 120,
-      "id": "24bb820afe2f8d96",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "Upgrade Tree",
-      "type": "text",
-      "width": 130,
-      "x": -180,
-      "y": -40
-    },
-    {
-      "color": "6",
       "height": 60,
       "id": "4da90dfe77497928",
       "styleAttributes": {
@@ -212,6 +198,20 @@
       "width": 240,
       "x": 440,
       "y": -280
+    },
+    {
+      "color": "6",
+      "height": 120,
+      "id": "24bb820afe2f8d96",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "Upgrade Tree",
+      "type": "text",
+      "width": 130,
+      "x": -180,
+      "y": -70
     }
   ]
 }
