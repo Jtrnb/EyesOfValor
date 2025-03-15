@@ -1,18 +1,6 @@
 {
   "edges": [
     {
-      "color": "3",
-      "fromNode": "69d1d52671dccbe6",
-      "fromSide": "top",
-      "id": "548f21cd8fc1dc53",
-      "styleAttributes": {
-        "arrow": "diamond",
-        "pathfindingMethod": "square"
-      },
-      "toNode": "b7fe9e0608bb3fca",
-      "toSide": "bottom"
-    },
-    {
       "color": "6",
       "fromNode": "2958f79c111f25ea",
       "fromSide": "left",
@@ -3485,6 +3473,18 @@
       },
       "toNode": "9226288b97aa19f8",
       "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "69d1d52671dccbe6",
+      "fromSide": "top",
+      "id": "fec6824a70a87917",
+      "styleAttributes": {
+        "arrow": "diamond",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "b7fe9e0608bb3fca",
+      "toSide": "bottom"
     }
   ],
   "nodes": [
