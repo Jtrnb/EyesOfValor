@@ -33,7 +33,7 @@
 - Once the beast will follow basic commands and join you on some hunts it will require more effort to improve its life and effectiveness. 
 - Through more rigorous training and studying of the beast you will be able to raise it into a wonder companion and partner. 
 - The Trainability of the beast 6 less. (or 12 less at loyalty 6)
-### Taming Wild Beasts:
+## Taming Wild Beasts:
 - Wild beasts or Organic Animals have different basic requirements to take them in as pets and companions than their mechanic counter parts. 
 #### Breaking the Ice:
 - Breaking the Ice with a wild beast often requires you to find what food it likes and if it is hurt or sick. Solving its survival problems and luring it in with food will most likely lead you to success in taming a wild beast.
@@ -41,11 +41,13 @@
 - To build your relationship further with a wild beast you will have to continue to use its favorite food but you should also find how it is motivated and use that to teach the beast some things. 
 #### Companionship:
 - To bring the beast to the next level you will have to bring the beast out on [[Playing the Game#Hunts:|Hunts]] to give it experience and time around your companions. Continuing to use its food and motivation it will grow into a lovely companion that will always be at your side.  
-### Taming Mechanical Beasts:
+## Taming Mechanical Beasts:
 - Mechanical beasts have different basic requirements to take them in as pets and companions than their organic counter parts. 
+#### Override Codes:
+- All mechanical beasts have an override code used to take control of the beast. Finding and using these will making taming and controlling mechanical beasts extremely easy. However, not all overrides are created equal and you may need to find more than one to have a fully loyal mechanical beast.
 #### Breaking the Ice:
 - Breaking the Ice with a mechanical beast often requires you to find what parts need to be repaired or the proper override code. Fixing it will be a more natural form of taming where override is more effective. 
 #### Basic Training:
 - To build your relationship further with a mechanic beast you will have to find how it is motivated and use that to teach the beast some things. You can also try to find a more effective override code to push the beast along. 
 #### Companionship:
-- To bring the beast to the next level you will have to bring the beast out on [[Playing the Game#Hunts:|Hunts]] to give it experience and time around your companions. Continuing to use its motivation it will grow into a lovely companion that will always be at your side.  
+- To bring the beast to the next level you will have to bring the beast out on [[Playing the Game#Hunts:|Hunts]] to give it experience and time around your companions. Continuing to use its motivation it will grow into a lovely companion that will always be at your side. You may also use a total override code to make the beast your partner. 
