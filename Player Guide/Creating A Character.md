@@ -23,12 +23,13 @@ You be a Valor
 		- Performance
 		- Deception
 #### <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span>:
-- There are 4 <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span>. These are used for check both used in and outside of combat as well as other systems. They determine general stats for the GM to use, and how your character interact with specific scenarios. 
-- The 4 <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span> are as follows:
+- There are 5 <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span>. These are used for check both used in and outside of combat as well as other systems. They determine general stats for the GM to use, and how your character interact with specific scenarios. 
+- The 5 <span style="font-weight:bold;color:rgb(102, 82, 255)">Special Stats</span> are as follows:
 	- Stealth
 	- Passive Stealth
 	- Reaction
-	- Passive Perception.
+	- Passive Perception
+	- Beast Handling
 ## Determining Stats:
 #### Determining <span style="font-weight:bold;color:rgb(33, 235, 60)">Base Stats</span>:
 - All 15 Stats are separated into 5 main categories: Strength, Deftness, Intellect, Instinct, and Charm.
@@ -52,6 +53,7 @@ You be a Valor
 	- **Passive Stealth:** Evasion Modifier + Direction Modifier + Deception Modifier + 8
 	- **Reaction:** Instinct Modifier + Deftness Modifier
 	- **Passive Perception:** 11 + Perception Modifier
+	- **Beast Handling:** Instinct Modifier + Study Modifier
 #### Determining Hitpoints:
 - Your starting Hitpoints are determined by your Guts modifier.
 	- **Hitpoints:** (2 x Guts Modifier) + 15
