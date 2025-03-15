@@ -9,5 +9,4 @@
 	- Etc.
 - Cybernetics? How? 
 - The Upgrade Tree in general (Warlock Invocations (Divisions of Holy Trinity))
-- Taming System
 - Crew Upgrades (Blades in the Dark)
