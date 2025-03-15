@@ -207,7 +207,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Increase Hitpoints by 2",
+      "text": "Increase Hitpoints by 2 + Guts",
       "type": "text",
       "width": 240,
       "x": 440,
