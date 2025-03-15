@@ -4381,7 +4381,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Carrier]]",
       "type": "text",
       "width": 100,
       "x": 1440,
@@ -6564,7 +6564,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "[[Stealth Strike]]",
+      "text": "",
       "type": "text",
       "width": 140,
       "x": -320,
