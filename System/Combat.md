@@ -16,9 +16,10 @@ Health is made up from 3 different types that collectively make a characters Hea
 ## Damage Types:
 - Blunt
 - Sharp
-- Fire
-- Electric
+- Acid
 - Cold
+- Electric
+- Fire
 ## Actions:
 
 ### <span style="font-weight:bold; color:rgb(33, 235, 60)">Action points</span>:
