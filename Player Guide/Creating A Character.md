@@ -1,4 +1,7 @@
 You be a Valor
+## Table of Contents
+```table-of-contents
+```
 ## Types of Stats:
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)"><span style="font-weight:bold;color:rgb(33, 235, 60)">Base Stats</span></span>:
 - There are 15 <span style="font-weight:bold;color:rgb(33, 235, 60)">Base Stats</span>. These are used for checks both used in and outside of combat. They determine what your character is good and bad at.
@@ -54,7 +57,7 @@ You be a Valor
 	- **Hitpoints:** (2 x Guts Modifier) + 15
 #### Determining Speed:
 - Your Speed is equal to 30 feet + any additional speed granted from your Prowess or Prowess Abilities
-#### Determining Damage Avoidance (DA)
+#### Determining Damage Avoidance (DA):
 - Damage avoidance or DA is your ability to avoid or block an incoming attack. When an attack is made against you, they will have to beat your DA to successfully land a hit. 
 - Your starting DA is equal to 9 + Evasion.
 - You can increase your DA by using armor and shields.
@@ -62,3 +65,4 @@ You be a Valor
 - A characters Prowess is their focus or "class". It determines their starting point on the [[Prowess Tree.canvas|Prowess Tree]] which allows them to take abilities curated to their Prowess. 
 - When leveling up* you will gain Prowess Points to redeem upgrades through the [[Prowess Tree.canvas|Prowess Tree]]. 
 - Each character Starts with 3 Prowess Points to be used. 
+-##
