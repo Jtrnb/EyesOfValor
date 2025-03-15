@@ -22,7 +22,6 @@
 
 ## Taming Beasts:
 - When taming any beast you will need to increase its loyalty value through various different methods. This is divided into 3 main stages: Breaking the Ice, Basic Training and Companionship. With the time and effort of each being more than the last. 
-- Each Beast will have a Trainability which will determine how hard Animal Handling checks with the beast should be. These checks should be used to build a bond with the beast and improve its loyalty. 
 - Breaking the ice and Basic training will most likely be started during a [[Playing the Game#Hunts:|Hunt]] however most of the progress will happen during [[Playing the Game#Downtime:|Downtime]]. You should try to increase your loyalty with a beast by 1 every time you have [[Playing the Game#Downtime:|Downtime]]. 
 #### Breaking the Ice (Loyalty 0-1):
 - To break the ice with a beast you must find a way to lure the beast in, and gain its trust.
