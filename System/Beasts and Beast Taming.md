@@ -10,15 +10,15 @@
 - The trainability of a beast determines how high the Challenge Level of Animal Handling checks should be when attempting to tame the beast.
 - The value of this may change depending on the Loyalty of the beast. 
 
-| **Loyalty Value** | **Behaviours**                                                                                                                                                                   |
-| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 0                 | The Beast is actively hostile toward you                                                                                                                                         |
-| 1                 | The Beast does not mind you, but may try to avoid you.                                                                                                                           |
-| 2                 | The Beast is welcoming to you, but not trusting of you. It will not follow many of your commands, nor will it trust your party members.                                          |
-| 3                 | The Beasts trusts you enough for you to give it simple commands, and maybe take it into a fight, maybe. It is still apprehensive toward your party                               |
-| 4                 | The Beast trusts you and will allow you to take it into combat. You may give it many commands and it is comfortable around your party.                                           |
-| 5                 | The Beast trust you fully and trusts your party enough to care for it. You may teach it any amount of complex commands.                                                          |
-| 6                 | The Beast is your partner and may use its partner abilities. This beast does not count toward the maximum number of beasts you can bring on a [[Playing the Game#Hunts:\|Hunt]]. |
+| **Loyalty Value** | **Behaviours**                                                                                                                                                                   | **Trainability** |
+| ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| 0                 | The Beast is actively hostile toward you                                                                                                                                         | Full Value       |
+| 1                 | The Beast does not mind you, but may try to avoid you.                                                                                                                           | Full Value       |
+| 2                 | The Beast is welcoming to you, but not trusting of you. It will not follow many of your commands, nor will it trust your party members.                                          | -3               |
+| 3                 | The Beasts trusts you enough for you to give it simple commands, and maybe take it into a fight, maybe. It is still apprehensive toward your party                               | -3               |
+| 4                 | The Beast trusts you and will allow you to take it into combat. You may give it many commands and it is comfortable around your party.                                           | -6               |
+| 5                 | The Beast trust you fully and trusts your party enough to care for it. You may teach it any amount of complex commands.                                                          | -6               |
+| 6                 | The Beast is your partner and may use its partner abilities. This beast does not count toward the maximum number of beasts you can bring on a [[Playing the Game#Hunts:\|Hunt]]. | -12              |
 
 ## Taming Beasts:
 - When taming any beast you will need to increase its loyalty value through various different methods. This is divided into 3 main stages: Breaking the Ice, Basic Training and Companionship. With the time and effort of each being more than the last. 
