@@ -1,0 +1,11 @@
+- Finish Skill Tree
+- Define Mission System
+- Character Sheet
+- Inventory System (For Missions)
+- Make Enemies
+- Species? (Prolly Not)
+- More Content
+	- Weapons
+	- Enemies
+	- Etc.
+- Cybernetics? How? 
