@@ -10,4 +10,4 @@
 	- Etc.
 - Cybernetics? How? 
 - Running the Game
-- The Upgrade Tree in general
+- The Upgrade Tree in general (Warlock Invocations (Divisions of Holy Trinity))
