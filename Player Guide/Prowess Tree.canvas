@@ -5015,13 +5015,14 @@
       "y": 590
     },
     {
+      "color": "1",
       "height": 60,
       "id": "ea9a6fb9783f8627",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Speed",
       "type": "text",
       "width": 140,
       "x": -1660,
