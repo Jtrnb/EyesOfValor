@@ -68,3 +68,6 @@ You be a Valor
 #### The Prowess Tree:
 - The [[Prowess Tree.canvas|Prowess Tree]] contains all of the classes and abilities your character will be able to get as they become more skilled
 - You may buy abilities on the [[Prowess Tree.canvas|Prowess Tree]] by using [[Leveling#Even Levels:|Prowess Points]], gained through leveling up. 
+## Inventory:
+- Your character inventory is very limited when determining how much gear you can bring out on Hunts. 
+- Your base inventory provides you with a C
