@@ -107,7 +107,6 @@ Health is made up from 3 different types that collectively make a characters Hea
 #### Turns:
 - Turn order is determined by each characters Reaction and which side of combat they are on.
 - Each side has their own turn order, and both loop independently of each other. With the order being based on who has the highest Reaction Value. The two turn orders alternate, starting with whoever has the highest Reaction 
-
 Ex. 
 
 | Players                                                           | Turn Order                                            | Players                                                           | Turn Order                                            |
@@ -139,7 +138,6 @@ Ex.
 |                                                                   | <span style="color:rgb(192, 187, 17)">Player 1</span>           |                                                                   | <span style="color:rgb(192, 187, 17)">Player 1</span>           |
 |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 2</span>             |                                                                   | <span style="color:rgb(235, 35, 53)">Enemy 1</span>             |
 |                                                                   | Cont.                                                           |                                                                   | Cont.                                                           |
-
 ## Weapons, Proficiency and Mastery:
 #### Weapons:
 - Weapons are tools that may be used to harm your enemies.
