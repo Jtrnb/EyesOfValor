@@ -18,14 +18,18 @@
 
 ## Taming Beasts:
 - When taming any beast you will need to increase its loyalty value through various different methods. This is divided into 3 main stages: Breaking the Ice, Basic Training and Companionship. With the time and effort of each being more than the last. 
-- Breaking the ice and Basic training will most likely be started during a [[Playing the Game#Hunts:|Hunt]] however most of the progress will happen during [[Playing the Game#Downtime:|Downtime]]. You should try to increase your loyalty with a beast by 1 everytime you have [[Playing the Game#Downtime:|Downtime]]. 
+- Each Beast will have a Trainability which will determine how hard Animal Handling checks with the beast should be. These checks should be used to build a bond with the beast and improve its loyalty. 
+- Breaking the ice and Basic training will most likely be started during a [[Playing the Game#Hunts:|Hunt]] however most of the progress will happen during [[Playing the Game#Downtime:|Downtime]]. You should try to increase your loyalty with a beast by 1 every time you have [[Playing the Game#Downtime:|Downtime]]. 
 #### Breaking the Ice (Loyalty 0-1):
 - To break the ice with a beast you must find a way to lure the beast in, and gain its trust.
+- The Trainability of the beast is its full value.
 #### Basic Training (Loyalty 2-3):
 - Once the beast is comfortable around you and will follow you to some success you will have to train it and keep it happy. Doing so will keep the beast around and unlock its potential.
+- The Trainability of the beast is 3 less.
 #### Companionship (Loyalty 4-6):
 - Once the beast will follow basic commands and join you on some hunts it will require more effort to improve its life and effectiveness. 
 - Through more rigorous training and studying of the beast you will be able to raise it into a wonder companion and partner. 
+- The Trainability of the beast 6 less. 
 ### Taming Wild Beasts:
 - Wild beast or Organic Animals have different basic requirements to take them in as pets and companions than their mechanic counter parts. 
 #### Breaking the Ice:
@@ -33,6 +37,5 @@
 #### Basic Training:
 - To build your relationship further with a wild beast you will have to continue to use its favorite food but you should also find how it is motivated and use that to teach the beast some things. 
 #### Companionship:
-- Once the beast will follow basic commands and join you on some hunts it will require more effort to improve its life and effectiveness. 
-- Through more rigorous training and studying of the beast you will be able to raise it into a wonder companion and partner. 
+- To bring the beast to the next level you will have to bring the beast out on [[Playing the Game#Hunts:|Hunts]] to give it experience and time around your companions. Continuing to use its food and motivation it will grow into a lovely companion that will always be at your side.  
 ### Taming Mechanical Beasts:
