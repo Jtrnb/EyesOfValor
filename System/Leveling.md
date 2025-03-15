@@ -6,5 +6,7 @@
 - Most Health Increases will come from abilities taken 
 ## Even Levels
 - On Even levels you gain 1 Prowess Point to be used on the [[Prowess Tree.canvas|Prowess Tree]].
+- The points may be used to buy abilities that connect to any point you have already bought
+- You may buy any Diamond shaped ability or Prowess, once you have 2 points.
 ## Odd Levels
 - On Odd levels you gain 1 Upgrade Point, these points can be used on the [[Upgrade Tree.canvas|Upgrade Tree]].
