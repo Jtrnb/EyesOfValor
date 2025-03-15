@@ -13,7 +13,7 @@ Health is made up from 3 different types that collectively make a characters Hea
 - Armor is a temporary form of Hitpoints that comes from Shields and Armor, which cannot be healed by standard healing 
 - Armor is always dealt damage before your Hitpoints and Temporary Hitpoints
 - When Armor reaches 0, all remaining damage from the attack that depleted the armor to 0 is ignored, as well as the equipment granting Armor becoming Damaged.
-## Damage Types
+## Damage Types:
 - Blunt
 - Sharp
 - Fire
@@ -26,7 +26,7 @@ Health is made up from 3 different types that collectively make a characters Hea
 - You may use any number of your <span style="font-weight:bold; color:rgb(33, 235, 60)">Action points</span> during a round of combat. you may not exceed the amount of <span style="font-weight:bold; color:rgb(33, 235, 60)">Action points</span> you have during a round.
 - At the start of each of your turns you will regain all of your <span style="font-weight:bold; color:rgb(33, 235, 60)">Action points</span>.
 - Unspent <span style="font-weight:bold; color:rgb(33, 235, 60)">Action points</span> go away at the start of each of your turns.
-### Action Attributes & Prerequisites
+### Action Attributes & Prerequisites:
 - Action Attributes determine under what conditions some actions may be used.
 - An Attribute determines if an Action can be used under a certain condition.
 - A Prerequisite determines when an Action may be used.
