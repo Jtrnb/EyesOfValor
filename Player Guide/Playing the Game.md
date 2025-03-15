@@ -1,4 +1,7 @@
 - Eyes of Valor (EoV) is played in two stages, Hunts and Downtime. Hunts being the meat of the game where the player will get to express their skills to survive and thrive, and downtime providing time for roleplay and gearing up.
+## Table of Contents:
+```table-of-contents
+```
 ## Downtime:
 - Every game of EoV starts in downtime with you gearing up and preparing for a hunt. 
 - During Downtime you will be interacting with other people and deciding what you should bring on your next hunt. You will be able to pick and choose what items you will bring filling your [[Creating A Character#Capacity:|Capacity]]. 
@@ -17,3 +20,5 @@
 - During rest you may use any items designated with rest. 
 #### Full Rest:
 - During a full rest you and your party will regain all of their missing Hitpoints. 
+#### Partial Rest:
+- During a partial rest you and your party will regain half of their 
