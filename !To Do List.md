@@ -1,7 +1,6 @@
 - Finish Skill Tree
-- Define Mission System
+- Running the Game
 - Character Sheet
-- Inventory System (For Missions)
 - Make Enemies
 - Species? (Prolly Not)
 - More Content
@@ -9,7 +8,6 @@
 	- Enemies
 	- Etc.
 - Cybernetics? How? 
-- Running the Game
 - The Upgrade Tree in general (Warlock Invocations (Divisions of Holy Trinity))
 - Taming System
 - Crew Upgrades (Blades in the Dark)
