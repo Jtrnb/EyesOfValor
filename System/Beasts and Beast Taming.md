@@ -18,6 +18,7 @@
 
 ## Taming Beasts:
 - When taming any beast you will need to increase its loyalty value through various different methods. This is divided into 3 main stages: Breaking the Ice, Basic Training and Companionship. With the time and effort of each being more than the last. 
+- Breaking the ice and Basic training will most likely be started during a [[Playing the Game#Hunts:|Hunt]] however most of the progress will happen during [[Playing the Game#Downtime:|Downtime]]. You should try to increase your loyalty with a beast by 1 everytime you have [[Playing the Game#Downtime:|Downtime]]. 
 #### Breaking the Ice (Loyalty 0-1):
 - To break the ice with a beast you must find a way to lure the beast in, and gain its trust.
 #### Basic Training (Loyalty 2-3):
@@ -28,10 +29,10 @@
 ### Taming Wild Beasts:
 - Wild beast or Organic Animals have different basic requirements to take them in as pets and companions than their mechanic counter parts. 
 #### Breaking the Ice:
-- To break the ice with a beast you must find a way to lure the beast in, and gain its trust.
+- Breaking the Ice with a wild beast often requires you to find what food it likes and if it is hurt or sick. Solving its survival problems and luring it in with food will most likely lead you to success in taming a wild beast.
 #### Basic Training:
-- Once the beast is comfortable around you and will follow you to some success you will have to train it and keep it happy. Doing so will keep the beast around and unlock its potential.
-#### Companionship :
+- To build your relationship further with a wild beast you will have to continue to use its favorite food but you should also find how it is motivated and use that to teach the beast some things. 
+#### Companionship:
 - Once the beast will follow basic commands and join you on some hunts it will require more effort to improve its life and effectiveness. 
 - Through more rigorous training and studying of the beast you will be able to raise it into a wonder companion and partner. 
 ### Taming Mechanical Beasts:
