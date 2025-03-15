@@ -70,4 +70,5 @@ You be a Valor
 - You may buy abilities on the [[Prowess Tree.canvas|Prowess Tree]] by using [[Leveling#Even Levels:|Prowess Points]], gained through leveling up. 
 ## Inventory:
 - Your character inventory is very limited when determining how much gear you can bring out on Hunts. 
-- Your base inventory provides you with a C
+- Your base inventory provides you with a Capacity of 4 + Endurance, Capacity being a value that will be filled by the items you bring.
+- Each item you carry will have a Capacity value. The Capacity value of your items may not exceed your personal Capacity value. If an item does not have a Capacity it is treated as bearing no weight and it free to carry. 
