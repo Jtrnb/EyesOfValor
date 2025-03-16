@@ -1,117 +1,119 @@
 {
   "edges": [
     {
+      "fromNode": "24bb820afe2f8d96",
+      "fromSide": "right",
       "id": "ce22282a9444aaf2",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
-      "fromNode": "24bb820afe2f8d96",
-      "fromSide": "right",
       "toNode": "c25dae69ff61d533",
       "toSide": "left"
     },
     {
+      "fromNode": "c25dae69ff61d533",
+      "fromSide": "right",
       "id": "896ddf1cd8fe4fa4",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
-      "fromNode": "c25dae69ff61d533",
-      "fromSide": "right",
       "toNode": "0c7a7d6c211a43f9",
       "toSide": "left"
     },
     {
+      "fromNode": "24bb820afe2f8d96",
+      "fromSide": "right",
       "id": "8ce76733e2054d5a",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
-      "fromNode": "24bb820afe2f8d96",
-      "fromSide": "right",
       "toNode": "f8d2e6b6a6ee4001",
       "toSide": "left"
     },
     {
+      "fromNode": "f8d2e6b6a6ee4001",
+      "fromSide": "right",
       "id": "e94ad84db39fc05e",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
-      "fromNode": "f8d2e6b6a6ee4001",
-      "fromSide": "right",
       "toNode": "b6609a59f0c0ae62",
       "toSide": "left"
     },
     {
+      "fromNode": "24bb820afe2f8d96",
+      "fromSide": "right",
       "id": "636054df63824c65",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
-      "fromNode": "24bb820afe2f8d96",
-      "fromSide": "right",
       "toNode": "b5a0080f2a360b9e",
       "toSide": "left"
     },
     {
+      "fromNode": "b5a0080f2a360b9e",
+      "fromSide": "right",
       "id": "a1d8f2b8bf6d3e79",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
-      "fromNode": "b5a0080f2a360b9e",
-      "fromSide": "right",
       "toNode": "aaa08dfb5762431e",
       "toSide": "left"
     },
     {
+      "fromNode": "b5a0080f2a360b9e",
+      "fromSide": "right",
       "id": "ec34f5d230ea1047",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
-      "fromNode": "b5a0080f2a360b9e",
-      "fromSide": "right",
       "toNode": "d7ba2a3902f40e18",
       "toSide": "left"
     },
     {
+      "fromNode": "c25dae69ff61d533",
+      "fromSide": "right",
       "id": "cb9e941b192c8055",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
-      "fromNode": "c25dae69ff61d533",
-      "fromSide": "right",
       "toNode": "4da90dfe77497928",
       "toSide": "left"
     },
     {
+      "fromNode": "24bb820afe2f8d96",
+      "fromSide": "left",
       "id": "603abac6a15993fa",
       "styleAttributes": {
         "arrow": "diamond"
       },
-      "fromNode": "24bb820afe2f8d96",
-      "fromSide": "left",
       "toNode": "10182ee3115ce160",
       "toSide": "right"
     },
     {
+      "fromNode": "10182ee3115ce160",
+      "fromSide": "left",
       "id": "f2427c16f4889309",
       "styleAttributes": {
         "arrow": "diamond"
       },
-      "fromNode": "10182ee3115ce160",
-      "fromSide": "left",
       "toNode": "b88a4cb797a39c65",
       "toSide": "right"
     }
   ],
-  "metadata": {},
+  "metadata": {
+  },
   "nodes": [
     {
+      "height": 60,
       "id": "b5a0080f2a360b9e",
       "styleAttributes": {
         "shape": "predefined-process",
@@ -119,12 +121,13 @@
       },
       "text": "3 Pts (Max 2 Times)",
       "type": "text",
-      "x": 150,
-      "y": 130,
       "width": 190,
-      "height": 60
+      "x": 150,
+      "y": 130
     },
     {
+      "color": "6",
+      "height": 60,
       "id": "aaa08dfb5762431e",
       "styleAttributes": {
         "shape": "predefined-process",
@@ -132,13 +135,13 @@
       },
       "text": "Increase Speed by 5",
       "type": "text",
-      "x": 440,
-      "y": 70,
       "width": 240,
-      "height": 60,
-      "color": "6"
+      "x": 440,
+      "y": 70
     },
     {
+      "color": "6",
+      "height": 60,
       "id": "d7ba2a3902f40e18",
       "styleAttributes": {
         "shape": "predefined-process",
@@ -146,13 +149,13 @@
       },
       "text": "Gain a Weapon Mastery",
       "type": "text",
-      "x": 440,
-      "y": 190,
       "width": 240,
-      "height": 60,
-      "color": "6"
+      "x": 440,
+      "y": 190
     },
     {
+      "color": "6",
+      "height": 60,
       "id": "b6609a59f0c0ae62",
       "styleAttributes": {
         "shape": null,
@@ -160,13 +163,13 @@
       },
       "text": "Increase A Stat by +1",
       "type": "text",
-      "x": 440,
-      "y": -40,
       "width": 240,
-      "height": 60,
-      "color": "6"
+      "x": 440,
+      "y": -40
     },
     {
+      "color": "6",
+      "height": 60,
       "id": "4da90dfe77497928",
       "styleAttributes": {
         "shape": null,
@@ -174,13 +177,12 @@
       },
       "text": "Gain a Weapon Proficiency",
       "type": "text",
-      "x": 440,
-      "y": -160,
       "width": 240,
-      "height": 60,
-      "color": "6"
+      "x": 440,
+      "y": -160
     },
     {
+      "height": 60,
       "id": "f8d2e6b6a6ee4001",
       "styleAttributes": {
         "shape": null,
@@ -188,12 +190,12 @@
       },
       "text": "2 Pts (Max 3 Times)",
       "type": "text",
-      "x": 150,
-      "y": -40,
       "width": 190,
-      "height": 60
+      "x": 150,
+      "y": -40
     },
     {
+      "height": 60,
       "id": "c25dae69ff61d533",
       "styleAttributes": {
         "shape": "pill",
@@ -201,12 +203,13 @@
       },
       "text": "1 Pt (Max 10 Times)",
       "type": "text",
-      "x": 150,
-      "y": -220,
       "width": 190,
-      "height": 60
+      "x": 150,
+      "y": -220
     },
     {
+      "color": "6",
+      "height": 60,
       "id": "0c7a7d6c211a43f9",
       "styleAttributes": {
         "shape": "pill",
@@ -214,13 +217,13 @@
       },
       "text": "Increase Hitpoints by 2 + Guts",
       "type": "text",
-      "x": 440,
-      "y": -280,
       "width": 240,
-      "height": 60,
-      "color": "6"
+      "x": 440,
+      "y": -280
     },
     {
+      "color": "6",
+      "height": 120,
       "id": "24bb820afe2f8d96",
       "styleAttributes": {
         "shape": "diamond",
@@ -228,13 +231,12 @@
       },
       "text": "Upgrade Tree",
       "type": "text",
-      "x": -180,
-      "y": -70,
       "width": 130,
-      "height": 120,
-      "color": "6"
+      "x": -180,
+      "y": -70
     },
     {
+      "height": 60,
       "id": "10182ee3115ce160",
       "styleAttributes": {
         "shape": "pill",
@@ -242,23 +244,22 @@
       },
       "text": "2 pts",
       "type": "text",
-      "x": -600,
-      "y": -40,
       "width": 260,
-      "height": 60
+      "x": -600,
+      "y": -40
     },
     {
+      "color": "6",
+      "height": 60,
       "id": "b88a4cb797a39c65",
       "styleAttributes": {
         "textAlign": "center"
       },
       "text": "Gain Assaulting Ability",
       "type": "text",
-      "x": -1000,
-      "y": -40,
       "width": 260,
-      "height": 60,
-      "color": "6"
+      "x": -1000,
+      "y": -40
     }
   ]
 }
