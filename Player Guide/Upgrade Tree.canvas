@@ -87,6 +87,26 @@
       "fromSide": "right",
       "toNode": "4da90dfe77497928",
       "toSide": "left"
+    },
+    {
+      "id": "603abac6a15993fa",
+      "styleAttributes": {
+        "arrow": "diamond"
+      },
+      "fromNode": "24bb820afe2f8d96",
+      "fromSide": "left",
+      "toNode": "10182ee3115ce160",
+      "toSide": "right"
+    },
+    {
+      "id": "f2427c16f4889309",
+      "styleAttributes": {
+        "arrow": "diamond"
+      },
+      "fromNode": "10182ee3115ce160",
+      "fromSide": "left",
+      "toNode": "b88a4cb797a39c65",
+      "toSide": "right"
     }
   ],
   "metadata": {},
@@ -212,6 +232,30 @@
       "y": -70,
       "width": 130,
       "height": 120,
+      "color": "6"
+    },
+    {
+      "id": "10182ee3115ce160",
+      "type": "text",
+      "text": "2 pts",
+      "styleAttributes": {
+        "textAlign": "center",
+        "shape": "pill"
+      },
+      "x": -600,
+      "y": -40,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b88a4cb797a39c65",
+      "type": "text",
+      "text": "Gain Assaulting Ability",
+      "styleAttributes": {},
+      "x": -1000,
+      "y": -40,
+      "width": 260,
+      "height": 60,
       "color": "6"
     }
   ]
