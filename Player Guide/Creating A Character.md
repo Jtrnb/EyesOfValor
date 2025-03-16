@@ -77,4 +77,4 @@ You be a Valor
 - Each item you carry will have a Capacity value. The Capacity value of your items may not exceed your personal Capacity value. If an item does not have a Capacity it is treated as bearing no weight and it free to carry. 
 - While not on a [[Playing the Game#Hunts:|Hunt]], you may store items and move as much as you would like around. Capacity only applies while out on a [[Playing the Game#Hunts:|Hunt]], or during travel depending on your GM.
 ## Beasts and Pets:
-- As a Valor you may find yourself wanted to keep a creature as a pet. You may have any number of beasts tamed and under your jurisdiction however you may not bring that many on [[Playing the Game#Hunts:|Hunts]]. The amount of beasts you may bring on a Hunt is equal to your **Beast Handling - 6**.
+- As a Valor you may find yourself wanted to keep a creature as a pet. You may have any number of beasts tamed and under your jurisdiction however you may not bring that many on [[Playing the Game#Hunts:|Hunts]]. You may bring only 1 beast into a [[Playing the Game#Hunts:|Hunt]].
