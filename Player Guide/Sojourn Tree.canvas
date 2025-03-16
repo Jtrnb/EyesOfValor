@@ -36,7 +36,8 @@
       "x": -70,
       "y": -480,
       "width": 150,
-      "height": 60
+      "height": 60,
+      "color": "#a17d9e"
     },
     {
       "id": "db3865f1208e043a",
@@ -48,7 +49,8 @@
       "x": 200,
       "y": -480,
       "width": 150,
-      "height": 60
+      "height": 60,
+      "color": "#a17d9e"
     },
     {
       "id": "d9459d4ed67314d7",
@@ -113,7 +115,8 @@
       "x": 275,
       "y": -340,
       "width": 150,
-      "height": 60
+      "height": 60,
+      "color": "#a17d9e"
     },
     {
       "id": "9895bef634f5e43f",
@@ -125,33 +128,8 @@
       "x": 275,
       "y": -160,
       "width": 150,
-      "height": 60
-    },
-    {
-      "id": "022d0b5f9635a750",
-      "type": "text",
-      "text": "2pts",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "x": 160,
-      "y": -250,
-      "width": 80,
-      "height": 60
-    },
-    {
-      "id": "7d8d1f7862be171b",
-      "type": "text",
-      "text": "5pts",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "x": 50,
-      "y": -250,
-      "width": 60,
-      "height": 60
+      "height": 60,
+      "color": "#a17d9e"
     },
     {
       "id": "6bfabfc45ed163e9",
@@ -283,7 +261,8 @@
       "x": 200,
       "y": -10,
       "width": 150,
-      "height": 60
+      "height": 60,
+      "color": "#a17d9e"
     },
     {
       "id": "9a4f3371114c8159",
@@ -295,7 +274,8 @@
       "x": -70,
       "y": -10,
       "width": 150,
-      "height": 60
+      "height": 60,
+      "color": "#a17d9e"
     },
     {
       "id": "67b2bd5fb55c8e3e",
@@ -379,7 +359,8 @@
       "x": -145,
       "y": -340,
       "width": 150,
-      "height": 60
+      "height": 60,
+      "color": "#a17d9e"
     },
     {
       "id": "0bd7e9a7507d79f2",
@@ -391,7 +372,8 @@
       "x": -145,
       "y": -160,
       "width": 150,
-      "height": 60
+      "height": 60,
+      "color": "#a17d9e"
     },
     {
       "id": "5f5ad952818f74af",
@@ -464,6 +446,46 @@
       "y": -520,
       "width": 150,
       "height": 60
+    },
+    {
+      "id": "022d0b5f9635a750",
+      "type": "text",
+      "text": "2pts",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": 220,
+      "y": -250,
+      "width": 80,
+      "height": 60
+    },
+    {
+      "id": "7d8d1f7862be171b",
+      "type": "text",
+      "text": "5pts",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": 5,
+      "y": -250,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "8df859fd5ad1a8af",
+      "type": "text",
+      "text": "No Order",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": 90,
+      "y": -250,
+      "width": 100,
+      "height": 60,
+      "color": "#6d576b"
     }
   ],
   "edges": [
