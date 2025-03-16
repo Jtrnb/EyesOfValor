@@ -1,1 +1,1 @@
-Dealing Damage up front
+Dealing damage up front
