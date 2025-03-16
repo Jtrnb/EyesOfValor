@@ -345,17 +345,6 @@
     },
     {
       "fromNode": "a4dd09218b299820",
-      "fromSide": "top",
-      "id": "5f0b67116a421740",
-      "styleAttributes": {
-        "arrow": "diamond",
-        "pathfindingMethod": "square"
-      },
-      "toNode": "19cd0fea400d6fe5",
-      "toSide": "bottom"
-    },
-    {
-      "fromNode": "a4dd09218b299820",
       "fromSide": "right",
       "id": "bcf401650dba9455",
       "styleAttributes": {
@@ -3484,6 +3473,17 @@
         "pathfindingMethod": "square"
       },
       "toNode": "b7fe9e0608bb3fca",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "a4dd09218b299820",
+      "fromSide": "top",
+      "id": "c0a6499f68744786",
+      "styleAttributes": {
+        "arrow": "diamond",
+        "pathfindingMethod": "square"
+      },
+      "toNode": "19cd0fea400d6fe5",
       "toSide": "bottom"
     }
   ],
