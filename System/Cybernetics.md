@@ -33,13 +33,13 @@
 - Roll all Overheat dice with a -2 modifier
 - Heat Gauge increases are tripled
 ## Overheat
-- When using a Cybernetic Active ability you will have to roll its Overheat die. Rolling a 1 on said die will result in adding 1 to the Overheat on the cybernetic. If the Overheat die is more than 1 die, roll them and take the lower.
+- When using a cybernetic's action you will have to roll its Overheat die. Rolling a 1 on said die will result in adding 1 to the Overheat on the cybernetic. If the Overheat die is more than 1 die, roll them and take the lower.
 #### Overheat Threshold:
 - The Overheat threshold is a value on each cybernetic that determines how much heat is being stored. If the heat goes to high bad things happen.
 #### Overheated State:
 - Each Overheat will be counted and compared to the Overheat Threshold of the cybernetic, if the Overheat threshold is reached or exceeded, the cybernetic is put into an Overheated state. 
 - When a cybernetic is in the Overheated state, subsequent 1s rolled on the Overheat die will result in a Malfunction causing the cybernetic to fail. The user may no longer use the cybernetic once it has malfunctioned due to heat and it must be repaired.
-- When a cybernetic is in the Overheated state, using active abilities of the cybernetic will increase its strain on the user. Each use will cause a strain increase of 1 which will clear after the Overheated state is cleared.
+- When a cybernetic is in the Overheated state, using actions of the cybernetic will increase its strain on the user. Each use will cause a strain increase of 1 which will clear after the Overheated state is cleared.
 - While a cybernetic is in the Overheated state, its Overheat abilities may be used.
 #### Clearing Overheat:
 - During each [[Playing the Game#Rest:|Rest]] 1 Overheat point is removed from each cybernetic you have. During a [[Playing the Game#Full Rest:|Full Rest]]
