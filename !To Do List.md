@@ -7,6 +7,7 @@
 - More Content
 	- Weapons
 	- Enemies
+	- Cybernetics
 	- Etc.
 - The Upgrade Tree in general (Warlock Invocations (Divisions of Holy Trinity))
 - Crew Upgrades (Blades in the Dark)
