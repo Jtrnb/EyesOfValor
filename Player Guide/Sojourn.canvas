@@ -1,0 +1,61 @@
+{
+  "nodes": [
+    {
+      "id": "da05be3d668f22af",
+      "type": "text",
+      "text": "Oceans",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": -480,
+      "y": -500,
+      "width": 120,
+      "height": 120,
+      "color": "5"
+    },
+    {
+      "id": "6e913fe6f5006227",
+      "type": "text",
+      "text": "Plains and Desserts",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": -100,
+      "y": -500,
+      "width": 120,
+      "height": 120,
+      "color": "2"
+    },
+    {
+      "id": "7587e3e6ac8ad4e0",
+      "type": "text",
+      "text": "Forrests",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": 260,
+      "y": -500,
+      "width": 120,
+      "height": 120,
+      "color": "4"
+    },
+    {
+      "id": "7919adbe57eea767",
+      "type": "text",
+      "text": "Mountainous",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": 680,
+      "y": -500,
+      "width": 120,
+      "height": 120
+    }
+  ],
+  "edges": [],
+  "metadata": {}
+}
