@@ -1,0 +1,1 @@
+Dealing Damage up front
