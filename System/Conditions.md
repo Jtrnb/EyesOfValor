@@ -22,3 +22,5 @@
 ## Hidden:
 - While hidden you may not be targeted by Enemies unless they make a Perception Check above your <span style="font-weight:bold; color:rgb(181, 119, 228)"><span style="color:rgb(181, 119, 228)">Active Stealth</span></span>. If they roll higher than your <span style="font-weight:bold;color:rgb(181, 119, 228)">Active Stealth</span> lose the Hidden Condition.
 - *While Hidden your attacks deal an additional 2 damage*
+## Exhaustion
+- WIP
