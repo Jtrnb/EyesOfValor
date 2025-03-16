@@ -45,4 +45,4 @@
 
 ## Malfunction:
 - When a cybernetic Malfunctions it closes up and stops working. While a cybernetic is malfunctioned its strain increases by half its current strain rounded up. 
-- A malfunctioning cybernetic may either work improperly or not work at all, this depends on the cybernetic and the GM's ruling
+- A malfunctioning cybernetic may either work improperly or not work at all, this depends on the cybernetic and the GM's ruling. 
