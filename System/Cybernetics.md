@@ -21,12 +21,15 @@
 	- Normal
 	- Strained
 	- Overclocked
-#### Normal (Amount of Strain is < Cyber Strain Level):
+#### Normal
+- Total amount of strain from cybernetics < Cyber Strain Level
 - Nothing happens, no lasting effects
-#### Strained (Amount of Strain is = Cyber Strain Level):
+#### Strained:
+- Total amount of strain from cybernetics = Cyber Strain Level
 - Roll all Overheat dice with a -1 modifier
 - Overheat Point increases are doubled
-#### Overclocked (Amount of Strain is > Cyber Strain Level):
+#### Overclocked:
+- Total amount of strain from cybernetics > Cyber Strain Level
 - Roll all Overheat dice with a -2 modifier
 - Heat Gauge increases are tripled
 ## Overheat
