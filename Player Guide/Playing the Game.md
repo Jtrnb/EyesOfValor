@@ -24,3 +24,7 @@
 #### Partial Rest:
 - A Half Rest can range from 2-4 hours of non-strenuous activity. 
 - During a partial rest you and your party will regain half of their missing Hitpoints, **not** half of their maximum Hitpoints. 
+
+
+## Travel:
+Travel is an in-between of Hunting and Downtime when you are moving your [[The Sojourn|Sojourn]] from one location to another.
