@@ -29,7 +29,6 @@
 #### Overclocked (Amount of Strain is > Cyber Strain Level):
 - Roll all Overheat dice with a -2 modifier
 - Heat Gauge increases are tripled
-- Using Cybernetic active abilities requires a DC 20 Guts Check or the user gains [[Conditions#Exhaustion:|Exhaustion]].
 ## Overheat
 - When using a Cybernetic Active ability you will have to roll its Overheat die. Rolling a 1 on said die will result in adding 1 to the Overheat on the cybernetic. If the Overheat die is more than 1 die, roll them and take the lower.
 #### Overheat Threshold:
