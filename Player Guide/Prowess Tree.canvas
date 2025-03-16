@@ -4041,13 +4041,14 @@
       "y": 830
     },
     {
+      "color": "#da17de",
       "height": 60,
       "id": "5a21b64bf992f530",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Weapon Mastery",
       "type": "text",
       "width": 140,
       "x": 1620,
