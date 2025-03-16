@@ -8,8 +8,8 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "x": -480,
-      "y": -500,
+      "x": 80,
+      "y": 200,
       "width": 120,
       "height": 120,
       "color": "5"
@@ -22,25 +22,11 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "x": -100,
-      "y": -500,
+      "x": -400,
+      "y": -280,
       "width": 120,
       "height": 120,
       "color": "2"
-    },
-    {
-      "id": "7587e3e6ac8ad4e0",
-      "type": "text",
-      "text": "Forrests",
-      "styleAttributes": {
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "x": 260,
-      "y": -500,
-      "width": 120,
-      "height": 120,
-      "color": "4"
     },
     {
       "id": "7919adbe57eea767",
@@ -50,10 +36,50 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "x": 680,
-      "y": -500,
+      "x": 560,
+      "y": -280,
       "width": 120,
       "height": 120
+    },
+    {
+      "id": "7587e3e6ac8ad4e0",
+      "type": "text",
+      "text": "Forrests",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": 80,
+      "y": -720,
+      "width": 120,
+      "height": 120,
+      "color": "4"
+    },
+    {
+      "id": "7d8d1f7862be171b",
+      "type": "text",
+      "text": "5pts",
+      "styleAttributes": {
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "x": 50,
+      "y": -220,
+      "width": 60,
+      "height": 60
+    },
+    {
+      "id": "022d0b5f9635a750",
+      "type": "text",
+      "text": "2pts",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "x": 160,
+      "y": -220,
+      "width": 80,
+      "height": 60
     }
   ],
   "edges": [],

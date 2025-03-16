@@ -12,6 +12,6 @@ once all players have created a character they come together to make a Sojourn. 
 Your Sojourn Starts at level 1 and can be upgraded after every hunt
 
 ## Upgrading your Sojourn and Sojourn Points
-Similar to leveling you will get Sojourn points after every hunt which can be spent on the Sojourn Tree. At level 1 you start with 3 Sojourn points
+Similar to leveling you will get Sojourn points after every hunt which can be spent on the [[Sojourn Tree.canvas|Sojourn Tree]]. At level 1 you start with 5 Sojourn points
 
 
