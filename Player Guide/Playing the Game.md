@@ -39,14 +39,16 @@
 - Light injuries can be cleared through the, [[Downtime Actions#Treat an Injury:|Treat an Injury]] [[Downtime Actions|Downtime Action]].
 - The following table is a list of light Injuries. 
 
-| Injury            | Effect |
-| ----------------- | ------ |
-| Broken Arm        |        |
-| Broken Leg        |        |
-| Broken Rib        |        |
-| Concussion        |        |
-| Internal Bleeding |        |
-| Deep Cut          |        |
+| Injury             | Effect |
+| ------------------ | ------ |
+| Broken Arm         |        |
+| Broken Leg         |        |
+| Broken Rib         |        |
+| Concussion         |        |
+| Internal Bleeding  |        |
+| Deep Cut           |        |
+| Skin Disfigurement |        |
+| Sprain             |        |
 
 #### Severe Injury:
 - A severe injury is an injury that can not be easily addressed and often, their effects are catastrophic, and devastating. Often times these can be permanent. 
@@ -60,8 +62,11 @@
 | Deafness     |        |
 | Paralysis    |        |
 | Nerve Damage |        |
-| Organ Damage |        |
-| Tetanus      |        |
+| Liver Damage |        |
+| Lung Damage  |        |
+| PTSD         |        |
+| Insanity     |        |
+|              |        |
 
 ## Survival (optional):
 
