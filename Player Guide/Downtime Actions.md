@@ -19,3 +19,6 @@
 - To increase a beasts loyalty you will have to make Beast Handling checks paired with any specifications the beast may have. The GM will provide most of the information on how you may increase the loyalty with a beast.
 ### Investigate for a Hunt:
 - FINN MAKE THIS
+### Repair and Tune Equipment:
+- You may repair a number of items equal to your Deftness modifier with a minimum of 1. 
+- Repairing a Damaged item will cause it to function again, such as a shield granting [[Combat#<font style="color 2b8eff">Armor</font>:|Armor]]. 
