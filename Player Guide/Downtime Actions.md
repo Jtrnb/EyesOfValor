@@ -36,3 +36,4 @@
 | 3              | If you have proficiency with this weapon you gain mastery. You get a +1 to attacks made with this weapon during your next hunt. |
 ### Crafting:
 - You may craft an item in accordance with any [[Prowess Tree.canvas|Prowess Tree]] abilities.
+### 
