@@ -425,7 +425,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Lofting Tow",
+      "text": "[[Lofting Tow]]",
       "type": "text",
       "width": 150,
       "x": 275,
@@ -439,7 +439,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Extra Storage",
+      "text": "[[Extra Storage]]",
       "type": "text",
       "width": 150,
       "x": -70,
@@ -453,7 +453,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Faster Travel",
+      "text": "[[Faster Travel]]",
       "type": "text",
       "width": 150,
       "x": 200,
@@ -480,7 +480,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "Oceans",
+      "text": "[[Oceans]]",
       "type": "text",
       "width": 120,
       "x": 80,
@@ -494,7 +494,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "Mountainous",
+      "text": "[[Mountains]]",
       "type": "text",
       "width": 120,
       "x": 480,
@@ -508,7 +508,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "Plains and Desserts",
+      "text": "[[Plains and Deserts]]",
       "type": "text",
       "width": 120,
       "x": -320,
@@ -522,7 +522,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Sleeping Quarters",
+      "text": "[[Sleeping Quarters]]",
       "type": "text",
       "width": 150,
       "x": 275,
@@ -536,7 +536,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Defenses ",
+      "text": "[[Defenses]]",
       "type": "text",
       "width": 150,
       "x": 275,
@@ -549,7 +549,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Climbing Anchors",
+      "text": "[[Climbing Anchors]]",
       "type": "text",
       "width": 150,
       "x": 465,
@@ -627,7 +627,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Game Traps",
+      "text": "[[Game Traps]]",
       "type": "text",
       "width": 150,
       "x": 200,
@@ -640,7 +640,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Camouflage",
+      "text": "[[Camouflage]]",
       "type": "text",
       "width": 150,
       "x": 425,
@@ -680,7 +680,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Cartography Station",
+      "text": "[[Cartography Station]]",
       "type": "text",
       "width": 150,
       "x": 200,
@@ -694,7 +694,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Beast Den",
+      "text": "[[Beast Den]]",
       "type": "text",
       "width": 150,
       "x": -70,
@@ -707,7 +707,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Boat Cannons",
+      "text": "[[Boat Cannons]]",
       "type": "text",
       "width": 150,
       "x": 275,
@@ -772,7 +772,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Trawling Net",
+      "text": "[[Trawling Net]]",
       "type": "text",
       "width": 150,
       "x": -145,
@@ -786,7 +786,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Watch Tower",
+      "text": "[[Watch Tower]]",
       "type": "text",
       "width": 150,
       "x": -145,
@@ -800,7 +800,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Kitchen",
+      "text": "[[Kitchen]]",
       "type": "text",
       "width": 150,
       "x": -145,
@@ -813,7 +813,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Rain Collector",
+      "text": "[[Rain Collector]]",
       "type": "text",
       "width": 150,
       "x": -335,
@@ -826,7 +826,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Storm Shields",
+      "text": "[[Storm Shields]]",
       "type": "text",
       "width": 150,
       "x": -335,
@@ -865,7 +865,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Plant Bed",
+      "text": "[[Plant Bed]]",
       "type": "text",
       "width": 150,
       "x": -560,
@@ -918,7 +918,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "Water Capacity",
+      "text": "[[Water Capacity]]",
       "type": "text",
       "width": 150,
       "x": -560,
