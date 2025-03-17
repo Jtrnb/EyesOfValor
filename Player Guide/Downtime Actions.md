@@ -15,6 +15,7 @@
 | Are > 3                    | Cooked, the food acts as normal                |
 | Are > 5                    | Perfection, the food gains double its effect   |
 ### Increase a Beast's Loyalty:
-- Increasing a beasts loyalty is a great way to make a standing companion that will aid you and your party on all their [[Playing the Game#Hunts:|Hunts]]. 
+- Increasing a beast's loyalty is a great way to make a standing companion that will aid you and your party on all their [[Playing the Game#Hunts:|Hunts]]. 
 - To increase a beasts loyalty you will have to make Beast Handling checks paired with any specifications the beast may have. The GM will provide most of the information on how you may increase the loyalty with a beast.
 ### Investigate for a Hunt:
+- FINN MAKE THIS
