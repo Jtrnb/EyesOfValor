@@ -36,6 +36,7 @@
 - Whenever you reach [[Conditions#Deaths Door:|Death's Door]] you take a Severe Injury.
 #### Light Injury:
 - A light injury is an injury that can be easily addressed, and often their effects are minor.
+- Light injuries can be cleared through the, [[Downtime Actions#Treat an Injury:|Treat an Injury]] [[Downtime Actions|Downtime Action]].
 - The following table is a list of light Injuries. 
 #### Severe Injury:
 - A severe injury is an injury that can not be easily addressed and often, their effects are catastrophic, and devastating. 
