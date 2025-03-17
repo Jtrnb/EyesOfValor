@@ -34,5 +34,11 @@
 - There are two types of injury in EoV, being light and severe, each with their own negative effects.
 - Whenever you go below half of your Hitpoints you will take a Light injury
 - Whenever you reach [[Conditions#Deaths Door:|Death's Door]] you take a Severe Injury.
+#### Light Injury:
+- A light injury is an injury that can be easily addressed, and often their effects are minor.
+- The following table is a list of light Injuries. 
+#### Severe Injury:
+- A severe injury is an injury that can not be easily addressed and often, their effects are catastrophic, and devastating. 
+- The following table is a list of severe injuries. 
 ## Survival (optional):
 
