@@ -23,4 +23,7 @@
 - You may repair a number of items equal to your Deftness modifier with a minimum of 1. 
 - Repairing a Damaged item will cause it to function again, such as a shield granting [[Combat#<font style="color 2b8eff">Armor</font>:|Armor]]. 
 - When you repair a [[Cybernetics|Cybernetic]] its [[Cybernetics#Overheat:|Overheat]] is set to 0, it is no longer [[Cybernetics#Malfunction:|Malfunctioning]].
-### 
+### Train with a Weapon:
+- You may train with a weapon to increase your [[Combat#Proficiency:|Proficiency]] and lead toward, [[Combat#Mastery:|Mastery]].
+- When training you must do the following:
+	- Make 3 attacks rolls with the weapon of choice, following standard [[Dice Checks and Rolls#Attack Checks:|Attack Check]] rules. 
