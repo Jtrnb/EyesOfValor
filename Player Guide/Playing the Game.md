@@ -29,4 +29,5 @@
 - Travel is an in-between of Hunting and Downtime when you are moving your [[The Sojourn|Sojourn]] from one location to another. 
 - When traveling locations can be Near(1day), Distant(2-4days), and Remote(5+days)
 - Each day of travel a [[Playing the Game#Hunts|Hunt]] occurs whether planned or not
+## Survival (optional):
 
