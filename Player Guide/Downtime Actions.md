@@ -1,10 +1,7 @@
-## Name:
-#### Effects:
 ## Table of Contents:
 ```table-of-contents
 ```
 ### Cooking:
-#### Effects:
 - Cooking will turn gathered ingredients and food into delicious meals the provide many benefits to you and your party. 
 - To cook you must do the following:
 	- Pick out any number of ingredients to use, up to 6 max. 
@@ -17,4 +14,6 @@
 | Are = 3                    | Undercooked, the food loses half of its effect |
 | Are > 3                    | Cooked, the food acts as normal                |
 | Are > 5                    | Perfection, the food gains double its effect   |
-
+### Increase a beasts loyalty:
+- Increasing a beasts loyalty is a great way to make a standing companion that will aid you and your party on all their [[Playing the Game#Hunts:|Hunts]]. 
+- To increase a beasts loyalty you will have to make Beast Handling checks paired with any specifications the beast may have. The GM will provide most of the information on how you may increase the loyalty with a beast.
