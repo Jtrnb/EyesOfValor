@@ -29,5 +29,10 @@
 - Travel is an in-between of Hunting and Downtime when you are moving your [[The Sojourn|Sojourn]] from one location to another. 
 - When traveling locations can be Near(1day), Distant(2-4days), and Remote(5+days)
 - Each day of travel a [[Playing the Game#Hunts|Hunt]] occurs whether planned or not
+## Injury:
+- Taking injuries is bound to happen to a Valor, tis the nature of the job. 
+- There are two types of injury in EoV, being light and severe, each with their own negative effects.
+- Whenever you go below half of your Hitpoints you will take a Light injury
+- Whenever you reach [[Conditions#Deaths Door:|Death's Door]] you take a Severe Injury.
 ## Survival (optional):
 
