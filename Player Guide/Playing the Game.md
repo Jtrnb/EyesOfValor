@@ -48,25 +48,28 @@
 | Internal Bleeding  |        |
 | Deep Cut           |        |
 | Skin Disfigurement |        |
-| Sprain             |        |
+| Sprained Wrist     |        |
+| Sprained Ankle     |        |
+|                    |        |
 
 #### Severe Injury:
 - A severe injury is an injury that can not be easily addressed and often, their effects are catastrophic, and devastating. Often times these can be permanent. 
 - The following table is a list of severe injuries. 
 
-| Injury       | Effect |
-| ------------ | ------ |
-| Lost an Arm  |        |
-| Lost a Leg   |        |
-| Blindness    |        |
-| Deafness     |        |
-| Paralysis    |        |
-| Nerve Damage |        |
-| Liver Damage |        |
-| Lung Damage  |        |
-| PTSD         |        |
-| Insanity     |        |
-|              |        |
+| Injury         | Effect |
+| -------------- | ------ |
+| Lost an Arm    |        |
+| Lost a Leg     |        |
+| Blindness      |        |
+| Deafness       |        |
+| Paralysis      |        |
+| Nerve Damage   |        |
+| Liver Damage   |        |
+| Lung Damage    |        |
+| PTSD           |        |
+| Muscle Damage  |        |
+| Disfigurement  |        |
+|                |        |
 
 ## Survival (optional):
 
