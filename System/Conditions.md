@@ -2,7 +2,7 @@
 ## Table of Contents:
 ```table-of-contents
 ```
-## Deaths Door:
+## Death's Door:
 - You may only be on Deaths Door while you have 0 Hitpoints.
 - While on Deaths Door, each time you take damage you must make CL 8 Guts or Endurance check if you fail you die, otherwise you remain at 0 Hitpoints. The CL of this check increases by 2 each time you receive damage while on Deaths Door.
 - The CL of the check resets after a Full or Partial Rest.
