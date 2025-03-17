@@ -436,7 +436,7 @@
       "height": 60,
       "id": "17c3bc1e3c6b46c6",
       "styleAttributes": {
-        "shape": "pill",
+        "shape": null,
         "textAlign": "center"
       },
       "text": "[[Extra Storage]]",
@@ -450,7 +450,7 @@
       "height": 60,
       "id": "db3865f1208e043a",
       "styleAttributes": {
-        "shape": "pill",
+        "shape": null,
         "textAlign": "center"
       },
       "text": "[[Faster Travel]]",
@@ -519,7 +519,7 @@
       "height": 60,
       "id": "9020efc4b6dd5102",
       "styleAttributes": {
-        "shape": "pill",
+        "shape": null,
         "textAlign": "center"
       },
       "text": "[[Sleeping Quarters]]",
@@ -533,7 +533,7 @@
       "height": 60,
       "id": "9895bef634f5e43f",
       "styleAttributes": {
-        "shape": "pill",
+        "shape": null,
         "textAlign": "center"
       },
       "text": "[[Defenses]]",
@@ -677,7 +677,7 @@
       "height": 60,
       "id": "72c390bb813e1dad",
       "styleAttributes": {
-        "shape": "pill",
+        "shape": null,
         "textAlign": "center"
       },
       "text": "[[Cartography Station]]",
@@ -691,7 +691,7 @@
       "height": 60,
       "id": "9a4f3371114c8159",
       "styleAttributes": {
-        "shape": "pill",
+        "shape": null,
         "textAlign": "center"
       },
       "text": "[[Beast Den]]",
@@ -783,7 +783,7 @@
       "height": 60,
       "id": "ac097bf9ae222ae6",
       "styleAttributes": {
-        "shape": "pill",
+        "shape": null,
         "textAlign": "center"
       },
       "text": "[[Watch Tower]]",
@@ -797,7 +797,7 @@
       "height": 60,
       "id": "0bd7e9a7507d79f2",
       "styleAttributes": {
-        "shape": "pill",
+        "shape": null,
         "textAlign": "center"
       },
       "text": "[[Kitchen]]",
@@ -898,20 +898,6 @@
       "y": -250
     },
     {
-      "color": "#6d576b",
-      "height": 60,
-      "id": "8df859fd5ad1a8af",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "No Order",
-      "type": "text",
-      "width": 100,
-      "x": 90,
-      "y": -250
-    },
-    {
       "height": 60,
       "id": "f3f2073603876e71",
       "styleAttributes": {
@@ -923,6 +909,34 @@
       "width": 150,
       "x": -560,
       "y": -520
+    },
+    {
+      "color": "#6d576b",
+      "height": 60,
+      "id": "8df859fd5ad1a8af",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "No Order",
+      "type": "text",
+      "width": 100,
+      "x": 90,
+      "y": -310
+    },
+    {
+      "color": "#6d576b",
+      "height": 60,
+      "id": "1991ac023ad6d389",
+      "styleAttributes": {
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "1 pt",
+      "type": "text",
+      "width": 100,
+      "x": 90,
+      "y": -190
     }
   ]
 }
