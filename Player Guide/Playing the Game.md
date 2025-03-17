@@ -57,20 +57,20 @@
 - A severe injury is an injury that can not be easily addressed and often, their effects are catastrophic, and devastating. Often times these can be permanent. 
 - The following table is a list of severe injuries. 
 
-| Injury                 | Effect                                                     |
-| ---------------------- | ---------------------------------------------------------- |
-| Lost an Arm            |                                                            |
-| Lost a Leg             |                                                            |
-| Blindness              |                                                            |
-| Deafness               |                                                            |
-| Paralysis              |                                                            |
-| Nerve Damage           |                                                            |
-| Liver Damage           |                                                            |
-| Lung Damage            |                                                            |
-| PTSD                   |                                                            |
-| Muscle Damage          |                                                            |
-| Disfigurement          |                                                            |
-| Infected Wound Stage 3 | All damage taken is increased by 5 per instance of damage. |
+| Injury                 | Effect                                                                  |
+| ---------------------- | ----------------------------------------------------------------------- |
+| Lost an Arm            | You may no longer use that arm. You may no longer use two handed items. |
+| Lost a Leg             | Your movement speed is quartered and you are permanently prone.         |
+| Blindness              | You cannot see                                                          |
+| Deafness               | You cannot hear                                                         |
+| Paralysis              | You are permanently stunned                                             |
+| Nerve Damage           | Damage taken is hidden from you, the GM will keep track                 |
+| Liver Damage           |                                                                         |
+| Lung Damage            |                                                                         |
+| PTSD                   |                                                                         |
+| Muscle Damage          |                                                                         |
+| Disfigurement          |                                                                         |
+| Infected Wound Stage 3 | All damage taken is increased by 5 per instance of damage.              |
 
 
 ## Survival (optional):
