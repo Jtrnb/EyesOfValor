@@ -50,7 +50,7 @@
 | Skin Disfigurement |        |
 | Sprained Wrist     |        |
 | Sprained Ankle     |        |
-|                    |        |
+| Infected Wound     |        |
 
 #### Severe Injury:
 - A severe injury is an injury that can not be easily addressed and often, their effects are catastrophic, and devastating. Often times these can be permanent. 
@@ -69,7 +69,7 @@
 | PTSD          |        |
 | Muscle Damage |        |
 | Disfigurement |        |
-|               |        |
+
 
 ## Survival (optional):
 
