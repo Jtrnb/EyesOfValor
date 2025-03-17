@@ -45,5 +45,6 @@
 ## Malfunction:
 - When a cybernetic Malfunctions it closes up and stops working. While a cybernetic is malfunctioned its strain increases by half its current strain rounded up. 
 - A malfunctioning cybernetic may either work improperly or not work at all, this depends on the cybernetic and the GM's ruling. 
+- A malfunctioning cybernetic is considered to be Damaged
 ## Cybernetics as Weapons:
 - A cybernetic can be as dangerous as it is useful and share some properties of weapons. If a cybernetic is also a weapon it will have a [[Combat#Weapons, Proficiency and Mastery:|Mastery]] ability, which you may gain through a normal weapon mastery.
