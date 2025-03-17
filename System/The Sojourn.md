@@ -5,6 +5,7 @@
 
 ## The Sojourn
 - Your sojourn is the movable location at which your party meets and participate in [[Playing the Game#Downtime:|Downtime]]. here you can store items and it where pets are kept
+- Your Sojourn is also the vehicle you will use to [[Playing the Game#Travel|Travel]] across the various biomes.
 
 ## Creating a Sojourn
 - once all players have created a character they come together to make a Sojourn. Your parties Sojourn will determine what kind of environments you will be hunting in and have access to. 
