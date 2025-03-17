@@ -39,18 +39,18 @@
 - Light injuries can be cleared through the, [[Downtime Actions#Treat an Injury:|Treat an Injury]] [[Downtime Actions|Downtime Action]].
 - The following table is a list of light Injuries. 
 
-| Injury             | Effect |
-| ------------------ | ------ |
-| Broken Arm         |        |
-| Broken Leg         |        |
-| Broken Rib         |        |
-| Concussion         |        |
-| Internal Bleeding  |        |
-| Deep Cut           |        |
-| Skin Disfigurement |        |
-| Sprained Wrist     |        |
-| Sprained Ankle     |        |
-| Infected Wound     |        |
+| Injury             | Effect                                                                                                                     |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| Broken Arm         | Any checks made using the broken arm are made at [[Dice Checks and Rolls#Advantage and Disadvantage:\|Disadvantage]].      |
+| Broken Leg         | Any checks made using the broken leg have are made at [[Dice Checks and Rolls#Advantage and Disadvantage:\|Disadvantage]]. |
+| Broken Rib         | Any Strength,                                                                                                              |
+| Concussion         |                                                                                                                            |
+| Internal Bleeding  |                                                                                                                            |
+| Deep Cut           |                                                                                                                            |
+| Skin Disfigurement |                                                                                                                            |
+| Sprained Wrist     |                                                                                                                            |
+| Sprained Ankle     |                                                                                                                            |
+| Infected Wound     |                                                                                                                            |
 
 #### Severe Injury:
 - A severe injury is an injury that can not be easily addressed and often, their effects are catastrophic, and devastating. Often times these can be permanent. 

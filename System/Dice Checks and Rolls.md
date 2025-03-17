@@ -43,7 +43,8 @@
 		- If that player succeeds the roll, their next roll will by only 1d12, due to them gaining 1 <span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span>.
 	- If a player loses all of their dice from <span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span>, they will automatically fail checks in the given <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> until they lose the <span style="font-weight:bold; color:rgb(235, 35, 53)"><span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span>ed</span> condition.
 #### Advantage and Disadvantage
-- When a player has advantage on a roll they will re-roll one of their d12's and take the higher values. The opposite is true for disadvantage.
+- When a player has advantage on a roll they will re-roll one of their d12's and take the higher 2 values.
+- When a player has disadvantage on a roll they will re-roll one of their d12's and take the lower 2 values.
 - If a player has both advantage and disadvantage, they lose both conditions.
 #### Doubles
 - When a player rolls doubles, they lose any <span style="font-weight:bold; color:rgb(235, 35, 53)"><span style="font-weight:bold; color:rgb(235, 35, 53)">Strain</span>ed</span> conditions. The roll is treated as a total success and will yield the best outcome possible. 
