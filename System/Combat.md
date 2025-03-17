@@ -13,6 +13,7 @@ Health is made up from 3 different types that collectively make a characters Hea
 - Armor is a temporary form of Hitpoints that comes from Shields and Armor, which cannot be healed by standard healing 
 - Armor is always dealt damage before your Hitpoints and Temporary Hitpoints
 - When Armor reaches 0, all remaining damage from the attack that depleted the armor to 0 is ignored, as well as the equipment granting Armor becoming Damaged.
+- A damaged item will not do anything until it is [[Downtime Actions#Repair and Tune Equipment:|Repaired]].
 ## Damage Types:
 - Blunt
 - Sharp
