@@ -26,4 +26,11 @@
 ### Train with a Weapon:
 - You may train with a weapon to increase your [[Combat#Proficiency:|Proficiency]] and lead toward, [[Combat#Mastery:|Mastery]].
 - When training you must do the following:
-	- Make 3 attacks rolls with the weapon of choice, following standard [[Dice Checks and Rolls#Attack Checks:|Attack Check]] rules. 
+	- Make 3 attacks rolls with the weapon of choice, following standard [[Dice Checks and Rolls#Attack Checks:|Attack Check]] rules. against a dummy, with a CL 22 DA
+- The result of each attack works in accordance tot he following table.
+
+| Number of Hits | Effect                                                                                                                          |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1              | You get a +1 to attacks made with this weapon during your next hunt.                                                            |
+| 2              | You gain proficiency with this weapon.                                                                                          |
+| 3              | If you have proficiency with this weapon you gain mastery. You get a +1 to attacks made with this weapon during your next hunt. |
