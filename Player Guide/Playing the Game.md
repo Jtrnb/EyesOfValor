@@ -51,26 +51,26 @@
 | Sprained Wrist         | All checks involving your hands have a -3 modifier.                                                                                                                                                                                                     |
 | Sprained Ankle         | All checks involving your feet have a -3 modifier.                                                                                                                                                                                                      |
 | Infected Wound         | Does nothing now, but each day it progresses. After 1 day this becomes a stage 2 Infected Wound.                                                                                                                                                        |
-| Infected Wound Stage 2 | All damage taking is increased by 3 per instance of damage. After 1 day this becomes a stage 3 infected wound, and becomes severe.                                                                                                                      |
+| Infected Wound Stage 2 | All damage taken is increased by 3 per instance of damage. After 1 day this becomes a stage 3 infected wound, and becomes severe.                                                                                                                       |
 
 #### Severe Injury:
 - A severe injury is an injury that can not be easily addressed and often, their effects are catastrophic, and devastating. Often times these can be permanent. 
 - The following table is a list of severe injuries. 
 
-| Injury                 | Effect                                                      |
-| ---------------------- | ----------------------------------------------------------- |
-| Lost an Arm            |                                                             |
-| Lost a Leg             |                                                             |
-| Blindness              |                                                             |
-| Deafness               |                                                             |
-| Paralysis              |                                                             |
-| Nerve Damage           |                                                             |
-| Liver Damage           |                                                             |
-| Lung Damage            |                                                             |
-| PTSD                   |                                                             |
-| Muscle Damage          |                                                             |
-| Disfigurement          |                                                             |
-| Infected Wound Stage 3 | All damage taking is increased by 5 per instance of damage. |
+| Injury                 | Effect                                                     |
+| ---------------------- | ---------------------------------------------------------- |
+| Lost an Arm            |                                                            |
+| Lost a Leg             |                                                            |
+| Blindness              |                                                            |
+| Deafness               |                                                            |
+| Paralysis              |                                                            |
+| Nerve Damage           |                                                            |
+| Liver Damage           |                                                            |
+| Lung Damage            |                                                            |
+| PTSD                   |                                                            |
+| Muscle Damage          |                                                            |
+| Disfigurement          |                                                            |
+| Infected Wound Stage 3 | All damage taken is increased by 5 per instance of damage. |
 
 
 ## Survival (optional):
