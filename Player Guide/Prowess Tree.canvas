@@ -4892,6 +4892,7 @@
       "y": 80
     },
     {
+      "color": "6",
       "height": 60,
       "id": "68ca7cd28f8a8775",
       "styleAttributes": {
@@ -5615,7 +5616,7 @@
       "y": -1060
     },
     {
-      "color": "#f2e8e8",
+      "color": "#4876fe",
       "height": 60,
       "id": "890225bb256d5f91",
       "styleAttributes": {
@@ -5643,7 +5644,7 @@
       "y": -1060
     },
     {
-      "color": "#f2e8e8",
+      "color": "#4876fe",
       "height": 60,
       "id": "bfa7cb464d9fcbdf",
       "styleAttributes": {
