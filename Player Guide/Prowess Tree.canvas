@@ -5623,13 +5623,14 @@
       "y": -1060
     },
     {
+      "color": "#f2e8e8",
       "height": 60,
       "id": "890225bb256d5f91",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Cyber Strain",
       "type": "text",
       "width": 140,
       "x": -220,
@@ -5650,13 +5651,14 @@
       "y": -1060
     },
     {
+      "color": "#f2e8e8",
       "height": 60,
       "id": "bfa7cb464d9fcbdf",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Cyber Strain",
       "type": "text",
       "width": 140,
       "x": -220,
@@ -6402,7 +6404,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Enhanced Cybernetics]]",
       "type": "text",
       "width": 140,
       "x": -320,
