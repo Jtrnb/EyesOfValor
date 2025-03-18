@@ -4984,13 +4984,14 @@
       "y": 280
     },
     {
+      "color": "4",
       "height": 60,
       "id": "850a31879f318d18",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "width": 140,
       "x": -2530,
@@ -5010,13 +5011,14 @@
       "y": 280
     },
     {
+      "color": "4",
       "height": 60,
       "id": "0e685f60b483ac79",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "width": 140,
       "x": -2750,
