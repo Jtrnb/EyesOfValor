@@ -315,19 +315,6 @@
       "y": -70
     },
     {
-      "height": 60,
-      "id": "10182ee3115ce160",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "2 pts (Max 5 Times)",
-      "type": "text",
-      "width": 260,
-      "x": -600,
-      "y": -40
-    },
-    {
       "color": "6",
       "height": 60,
       "id": "55c14d025600fd09",
@@ -430,6 +417,19 @@
       "width": 240,
       "x": -1000,
       "y": 390
+    },
+    {
+      "height": 60,
+      "id": "10182ee3115ce160",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "2 pts (Max 5 Times)",
+      "type": "text",
+      "width": 190,
+      "x": -540,
+      "y": -40
     }
   ]
 }
