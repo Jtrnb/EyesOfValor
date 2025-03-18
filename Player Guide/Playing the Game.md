@@ -75,5 +75,9 @@
 ## Survival (optional):
 - *This rule is optional, and will different depending on your GM. For a classic EoV experience we recommend you use these rules.*
 - Surviving out in the wastes is not easy, especially for that of a Valor. You must keep yourself rest, fed and ready for the challenges ahead of you.
-- 
+#### Sleeping:
+- You must sleep each night to be at tip top shape. Failure to do so will result in negative consequences.
+- If you do not complete 1 Full or 2 Partial Rests within a day you will gain the [[Conditions#Fatigue:|Fatigued]] condition.
+- If you fail to sleep once [[Conditions#Fatigue:|Fatigued]] you will also gain the [[Conditions#Exhaustion:|Exhausted]] condition.
+- Failure to sleep for 3 nights will cause your character to sleep through the next hunt.
 
