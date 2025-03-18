@@ -78,17 +78,6 @@
       "toSide": "left"
     },
     {
-      "fromNode": "c25dae69ff61d533",
-      "fromSide": "right",
-      "id": "cb9e941b192c8055",
-      "styleAttributes": {
-        "arrow": "diamond",
-        "pathfindingMethod": "square"
-      },
-      "toNode": "4da90dfe77497928",
-      "toSide": "left"
-    },
-    {
       "fromNode": "24bb820afe2f8d96",
       "fromSide": "left",
       "id": "603abac6a15993fa",
@@ -226,7 +215,7 @@
         "shape": "predefined-process",
         "textAlign": "center"
       },
-      "text": "Gain a Weapon Mastery",
+      "text": "Gain a Weapon Proficiency",
       "type": "text",
       "width": 240,
       "x": 440,
@@ -247,20 +236,6 @@
       "y": -40
     },
     {
-      "color": "6",
-      "height": 60,
-      "id": "4da90dfe77497928",
-      "styleAttributes": {
-        "shape": null,
-        "textAlign": "center"
-      },
-      "text": "Gain a Weapon Proficiency",
-      "type": "text",
-      "width": 240,
-      "x": 440,
-      "y": -160
-    },
-    {
       "height": 60,
       "id": "f8d2e6b6a6ee4001",
       "styleAttributes": {
@@ -272,33 +247,6 @@
       "width": 190,
       "x": 150,
       "y": -40
-    },
-    {
-      "height": 60,
-      "id": "c25dae69ff61d533",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "1 Pt (Max 10 Times)",
-      "type": "text",
-      "width": 190,
-      "x": 150,
-      "y": -220
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "0c7a7d6c211a43f9",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "Increase Hitpoints by 2 + Guts",
-      "type": "text",
-      "width": 240,
-      "x": 440,
-      "y": -280
     },
     {
       "color": "6",
@@ -430,6 +378,33 @@
       "width": 240,
       "x": -920,
       "y": 360
+    },
+    {
+      "height": 60,
+      "id": "c25dae69ff61d533",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "1 Pt (Max 10 Times)",
+      "type": "text",
+      "width": 190,
+      "x": 150,
+      "y": -160
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "0c7a7d6c211a43f9",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "Increase Hitpoints by 2 + Guts",
+      "type": "text",
+      "width": 240,
+      "x": 440,
+      "y": -160
     }
   ]
 }
