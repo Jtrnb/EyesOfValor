@@ -4169,13 +4169,14 @@
       "y": 590
     },
     {
+      "color": "2",
       "height": 60,
       "id": "02f0f0147c52d292",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Capacity",
       "type": "text",
       "width": 140,
       "x": 2240,
