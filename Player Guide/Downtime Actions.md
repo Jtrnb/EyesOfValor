@@ -39,3 +39,5 @@
 ## Treat an Injury:
 - Treating an Injury can remove [[Playing the Game#Light Injury:|Light Injuries]] from players ensure they are in tip top shape.
 - When treating an injury you must make both a Deftness and Study check with a CL determined by the [[Playing the Game#Injury:|Injury]]. 
+- If you succeed on both check the [[Playing the Game#Injury:|Injury]] is cleared and removed from the character.
+- If you succeed only one of the checks the [[Playing the Game#Injury:|Injury]] is cleared however they gain the 

@@ -24,5 +24,7 @@
 - *While Hidden your attacks deal an additional 2 damage*
 ## Fatigue:
 - WIP
-## Exhaustion
+## Exhaustion:
 - WIP
+## Hurt:
+- Your [[Creating A Character#Determining Hitpoints:|Hitpoint]] maximum is reduced by 1/4 your normal [[Creating A Character#Determining Hitpoints:|Hitpoint]] maximum.
