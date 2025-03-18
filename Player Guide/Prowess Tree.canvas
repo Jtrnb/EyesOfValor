@@ -4237,13 +4237,14 @@
       "y": 890
     },
     {
+      "color": "6",
       "height": 60,
       "id": "a0ec9eed68aad4f7",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": 2090,
@@ -4943,13 +4944,14 @@
       "y": 590
     },
     {
+      "color": "1",
       "height": 60,
       "id": "0bea53ff5aee09da",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Speed",
       "type": "text",
       "width": 140,
       "x": -2680,
@@ -4970,14 +4972,14 @@
       "y": 590
     },
     {
-      "color": "2",
+      "color": "1",
       "height": 60,
       "id": "244054bc73efcac4",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "+1 Reaction",
+      "text": "+5 Speed",
       "type": "text",
       "width": 140,
       "x": -1440,
@@ -5052,13 +5054,14 @@
       "y": 890
     },
     {
+      "color": "2",
       "height": 60,
       "id": "257ed93b6a37656c",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "width": 140,
       "x": -1590,
