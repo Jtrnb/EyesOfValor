@@ -4368,21 +4368,6 @@
       "y": -650
     },
     {
-      "color": "#c523c7",
-      "height": 100,
-      "id": "cc357c68fe06b34f",
-      "styleAttributes": {
-        "border": null,
-        "shape": "diamond",
-        "textAlign": "center"
-      },
-      "text": "[[Scrapper]]",
-      "type": "text",
-      "width": 100,
-      "x": 1840,
-      "y": -650
-    },
-    {
       "color": "5",
       "height": 60,
       "id": "9845ad2dc17c60a2",
@@ -6483,6 +6468,21 @@
       "width": 100,
       "x": -2240,
       "y": 575
+    },
+    {
+      "color": "#c523c7",
+      "height": 100,
+      "id": "cc357c68fe06b34f",
+      "styleAttributes": {
+        "border": null,
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "[[Scrapper]]",
+      "type": "text",
+      "width": 100,
+      "x": 1840,
+      "y": -650
     }
   ]
 }
