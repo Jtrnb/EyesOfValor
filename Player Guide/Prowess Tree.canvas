@@ -4878,13 +4878,14 @@
       "y": 490
     },
     {
+      "color": "4",
       "height": 60,
       "id": "f21e4b8237c7b3f5",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "width": 140,
       "x": -2060,
@@ -4897,7 +4898,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": -2060,
@@ -5113,7 +5114,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Persistence]]",
       "type": "text",
       "width": 140,
       "x": -1220,
