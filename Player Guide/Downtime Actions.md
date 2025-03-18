@@ -37,3 +37,5 @@
 ## Crafting:
 - You may craft an item in accordance with any [[Prowess Tree.canvas|Prowess Tree]] abilities.
 ## Treat an Injury:
+- Treating an Injury can remove [[Playing the Game#Light Injury:|Light Injuries]] from players ensure they are in tip top shape.
+- When treating an injury you must make both a Deftness and Study check with a CL determined by the [[Playing the Game#Injury:|Injury]]. 
