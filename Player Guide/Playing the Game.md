@@ -72,6 +72,7 @@
 | Disfigurement          | You appearance is permanently altered, that may be a bone dent or a shift in the position of a body part                                                              |
 | Infected Wound Stage 3 | All damage taken is increased by 5 per instance of damage                                                                                                             |
 
-
 ## Survival (optional):
+- *This rule is optional, and will different depending on your GM. For a classic EoV experience we recommend you use these rules.*
+- Surviving out in the wastes is not easy, especially for that of a Valor. You must keep yourself rest, fed and ready for the challenges ahead of you, 
 
