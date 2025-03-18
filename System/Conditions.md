@@ -23,7 +23,7 @@
 - While hidden you may not be targeted by Enemies unless they make a Perception Check above your <span style="font-weight:bold; color:rgb(181, 119, 228)"><span style="color:rgb(181, 119, 228)">Active Stealth</span></span>. If they roll higher than your <span style="font-weight:bold;color:rgb(181, 119, 228)">Active Stealth</span> lose the Hidden Condition.
 - *While Hidden your attacks deal an additional 2 damage*
 ## Fatigue:
-- WIP
+- While fatigued, your speed is reduced by 5 feet, and you gain -1 modifier to [[Dice Checks and Rolls#<span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> Checks:|Stat Checks]].
 ## Exhaustion:
 - WIP
 ## Hurt:
