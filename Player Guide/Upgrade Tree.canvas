@@ -315,56 +315,17 @@
       "y": -70
     },
     {
-      "color": "6",
       "height": 60,
-      "id": "55c14d025600fd09",
+      "id": "10182ee3115ce160",
       "styleAttributes": {
+        "shape": null,
         "textAlign": "center"
       },
-      "text": "Gain Fabricating Ability",
+      "text": "2 pts (Max 5 Times)",
       "type": "text",
-      "width": 240,
-      "x": -1000,
-      "y": -210
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "b88a4cb797a39c65",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Gain Healing Ability",
-      "type": "text",
-      "width": 240,
-      "x": -1000,
-      "y": -90
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "9681cde4fd7e5906",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Gain Mitigating Ability",
-      "type": "text",
-      "width": 240,
-      "x": -1000,
-      "y": 20
-    },
-    {
-      "color": "6",
-      "height": 60,
-      "id": "f2a74184570ab097",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Gain Protecting Ability",
-      "type": "text",
-      "width": 240,
-      "x": -1000,
-      "y": 140
+      "width": 190,
+      "x": -480,
+      "y": -40
     },
     {
       "color": "6",
@@ -376,21 +337,47 @@
       "text": "Gain Augmenting Ability",
       "type": "text",
       "width": 240,
-      "x": -1000,
-      "y": -330
+      "x": -920,
+      "y": -340
     },
     {
       "color": "6",
       "height": 60,
-      "id": "93d4b7dae7610306",
+      "id": "55c14d025600fd09",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Gain Skulking Ability",
+      "text": "Gain Fabricating Ability",
       "type": "text",
       "width": 240,
-      "x": -1000,
-      "y": 270
+      "x": -920,
+      "y": -220
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "9681cde4fd7e5906",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Gain Mitigating Ability",
+      "type": "text",
+      "width": 240,
+      "x": -920,
+      "y": 10
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "b88a4cb797a39c65",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Gain Healing Ability",
+      "type": "text",
+      "width": 240,
+      "x": -920,
+      "y": -100
     },
     {
       "color": "6",
@@ -402,8 +389,34 @@
       "text": "Gain Assaulting Ability",
       "type": "text",
       "width": 240,
-      "x": -1000,
-      "y": -470
+      "x": -920,
+      "y": -460
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "f2a74184570ab097",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Gain Protecting Ability",
+      "type": "text",
+      "width": 240,
+      "x": -920,
+      "y": 130
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "93d4b7dae7610306",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Gain Skulking Ability",
+      "type": "text",
+      "width": 240,
+      "x": -920,
+      "y": 240
     },
     {
       "color": "6",
@@ -415,21 +428,8 @@
       "text": "Gain Zoning Ability",
       "type": "text",
       "width": 240,
-      "x": -1000,
-      "y": 390
-    },
-    {
-      "height": 60,
-      "id": "10182ee3115ce160",
-      "styleAttributes": {
-        "shape": "pill",
-        "textAlign": "center"
-      },
-      "text": "2 pts (Max 5 Times)",
-      "type": "text",
-      "width": 190,
-      "x": -540,
-      "y": -40
+      "x": -920,
+      "y": 360
     }
   ]
 }
