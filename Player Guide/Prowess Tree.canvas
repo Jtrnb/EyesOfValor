@@ -4197,13 +4197,14 @@
       "y": 280
     },
     {
+      "color": "6",
       "height": 60,
       "id": "605ac96ca6c1243c",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": 1150,
@@ -4224,13 +4225,14 @@
       "y": 280
     },
     {
+      "color": "2",
       "height": 60,
       "id": "80f467eb8ee6a494",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "width": 140,
       "x": 930,
