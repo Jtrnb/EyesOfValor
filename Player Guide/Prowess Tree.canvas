@@ -4127,26 +4127,28 @@
       "y": 1230
     },
     {
+      "color": "3",
       "height": 60,
       "id": "d14aa2e04a46cbea",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Passive Perception",
       "type": "text",
       "width": 140,
       "x": 1220,
       "y": 590
     },
     {
+      "color": "6",
       "height": 60,
       "id": "d95ca0aaf981de9b",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": 1000,
@@ -4438,13 +4440,14 @@
       "y": -390
     },
     {
+      "color": "3",
       "height": 60,
       "id": "b513d2206cfbd761",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Passive Perception",
       "type": "text",
       "width": 140,
       "x": 1620,
