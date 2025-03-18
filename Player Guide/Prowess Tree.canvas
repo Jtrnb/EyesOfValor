@@ -4578,13 +4578,14 @@
       "y": -630
     },
     {
+      "color": "#d839db",
       "height": 60,
       "id": "70f3d4c702b49729",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Weapon Mastery",
       "type": "text",
       "width": 140,
       "x": 2240,
