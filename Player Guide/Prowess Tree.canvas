@@ -4034,7 +4034,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Ranged Targeting]]",
       "type": "text",
       "width": 150,
       "x": 1465,
@@ -5151,7 +5151,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Leader]]",
       "type": "text",
       "width": 100,
       "x": -2240,
