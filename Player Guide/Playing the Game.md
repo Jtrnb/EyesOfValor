@@ -74,5 +74,6 @@
 
 ## Survival (optional):
 - *This rule is optional, and will different depending on your GM. For a classic EoV experience we recommend you use these rules.*
-- Surviving out in the wastes is not easy, especially for that of a Valor. You must keep yourself rest, fed and ready for the challenges ahead of you, 
+- Surviving out in the wastes is not easy, especially for that of a Valor. You must keep yourself rest, fed and ready for the challenges ahead of you.
+- 
 
