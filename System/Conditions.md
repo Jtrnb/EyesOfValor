@@ -25,6 +25,6 @@
 ## Fatigue:
 - While fatigued, your speed is reduced by 5 feet, and you gain -1 modifier to [[Dice Checks and Rolls#<span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> Checks:|Stat Checks]].
 ## Exhaustion:
-- WIP
+- While exhausted your speed is reduced by 10 feet and you gain a -1 modifier to all checks.
 ## Hurt:
 - Your [[Creating A Character#Determining Hitpoints:|Hitpoint]] maximum is reduced by 1/4 your normal [[Creating A Character#Determining Hitpoints:|Hitpoint]] maximum.
