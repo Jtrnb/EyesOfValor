@@ -4266,7 +4266,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Weapon Mastery",
       "type": "text",
       "width": 140,
       "x": 2320,
@@ -4287,26 +4287,28 @@
       "y": 280
     },
     {
+      "color": "6",
       "height": 60,
       "id": "d0e221d98b1f4214",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": 1150,
       "y": 280
     },
     {
+      "color": "3",
       "height": 60,
       "id": "18fa6be4d1af3c6d",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Passive Perception",
       "type": "text",
       "width": 140,
       "x": 930,
