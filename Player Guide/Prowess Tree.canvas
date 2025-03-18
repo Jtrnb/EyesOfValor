@@ -4155,13 +4155,14 @@
       "y": 590
     },
     {
+      "color": "2",
       "height": 60,
       "id": "2903a27855a611de",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "width": 140,
       "x": 2020,
@@ -4181,13 +4182,14 @@
       "y": 590
     },
     {
+      "color": "4",
       "height": 60,
       "id": "5c4bb80ce8ce8e01",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "width": 140,
       "x": 2090,
@@ -4207,13 +4209,14 @@
       "y": 890
     },
     {
+      "color": "4",
       "height": 60,
       "id": "a186812f405d2f73",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Beast Handling",
       "type": "text",
       "width": 140,
       "x": 2300,
@@ -4260,6 +4263,7 @@
       "y": 890
     },
     {
+      "color": "#e232dc",
       "height": 60,
       "id": "e5a6109522bd8c54",
       "styleAttributes": {
@@ -4280,7 +4284,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Partner Bond]]",
       "type": "text",
       "width": 140,
       "x": 2540,
