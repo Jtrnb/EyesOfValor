@@ -79,5 +79,11 @@
 - You must sleep each night to be at tip top shape. Failure to do so will result in negative consequences.
 - If you do not complete 1 Full or 2 Partial Rests within a day you will gain the [[Conditions#Fatigue:|Fatigued]] condition.
 - If you fail to sleep once [[Conditions#Fatigue:|Fatigued]] you will also gain the [[Conditions#Exhaustion:|Exhausted]] condition.
-- Failure to sleep for 3 nights will cause your character to sleep through the next hunt.
+- If you fail to sleep for 3 nights will cause your character to sleep through the next hunt.
+#### Eating:
+- You must eat, everything needs to and failure to do so will hurt.
+- If you do not consume at least 1 meal within a day you will gain the, [[Conditions#Fatigue:|Fatigued]] condition.
+- IF you do not eat for 2 days you will suffer a -2 penalty to all checks. 
+- If you do not eat for 3 days you will gain the [[Conditions#Exhaustion:|Exhausted]] condition.
+- If you do not eat for 4 days you will die of starvation and fatigue. 
 
