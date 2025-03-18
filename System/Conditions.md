@@ -24,6 +24,7 @@
 - *While Hidden your attacks deal an additional 2 damage*
 ## Fatigue:
 - While fatigued, your speed is reduced by 5 feet, and you gain -1 modifier to [[Dice Checks and Rolls#<span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> Checks:|Stat Checks]].
+- If you gain fatigue while fatigued, you gain Exhaustion instead.
 ## Exhaustion:
 - While exhausted your speed is reduced by 10 feet and you gain a -1 modifier to all checks.
 ## Hurt:
