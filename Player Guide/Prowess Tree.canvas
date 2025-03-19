@@ -5648,7 +5648,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Overclocking]]",
       "type": "text",
       "width": 150,
       "x": -75,
@@ -5676,7 +5676,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Damage Repair]]",
       "type": "text",
       "width": 150,
       "x": -375,
