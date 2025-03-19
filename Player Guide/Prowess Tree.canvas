@@ -3961,7 +3961,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Ranger]]",
       "type": "text",
       "x": 1840,
       "y": 570,
@@ -3989,7 +3989,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Beast Lure]]",
       "type": "text",
       "x": 1765,
       "y": 350,
@@ -4003,7 +4003,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Lucky Shot]]",
       "type": "text",
       "x": 1765,
       "y": 830,
@@ -4031,7 +4031,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Ranged Targeting]]",
       "type": "text",
       "x": 1465,
       "y": 830,
@@ -4126,12 +4126,17 @@
       "color": "5"
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "3",
+      "height": 60,
+>>>>>>> origin/main
       "id": "d14aa2e04a46cbea",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Passive Perception",
       "type": "text",
       "x": 1220,
       "y": 590,
@@ -4139,12 +4144,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "6",
+      "height": 60,
+>>>>>>> origin/main
       "id": "d95ca0aaf981de9b",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "x": 1000,
       "y": 590,
@@ -4152,12 +4162,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "2",
+      "height": 60,
+>>>>>>> origin/main
       "id": "2903a27855a611de",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "x": 2020,
       "y": 590,
@@ -4165,12 +4180,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "2",
+      "height": 60,
+>>>>>>> origin/main
       "id": "02f0f0147c52d292",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Capacity",
       "type": "text",
       "x": 2240,
       "y": 590,
@@ -4178,12 +4198,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "4",
+      "height": 60,
+>>>>>>> origin/main
       "id": "5c4bb80ce8ce8e01",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "x": 2090,
       "y": 280,
@@ -4191,12 +4216,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "6",
+      "height": 60,
+>>>>>>> origin/main
       "id": "605ac96ca6c1243c",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "x": 1150,
       "y": 890,
@@ -4204,12 +4234,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "4",
+      "height": 60,
+>>>>>>> origin/main
       "id": "a186812f405d2f73",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Beast Handling",
       "type": "text",
       "x": 2300,
       "y": 280,
@@ -4217,12 +4252,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "2",
+      "height": 60,
+>>>>>>> origin/main
       "id": "80f467eb8ee6a494",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "x": 930,
       "y": 890,
@@ -4230,12 +4270,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "6",
+      "height": 60,
+>>>>>>> origin/main
       "id": "a0ec9eed68aad4f7",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "x": 2090,
       "y": 890,
@@ -4248,7 +4293,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Steady Hands]]",
       "type": "text",
       "x": 2540,
       "y": 890,
@@ -4257,12 +4302,17 @@
       "color": "5"
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "#e232dc",
+      "height": 60,
+>>>>>>> origin/main
       "id": "e5a6109522bd8c54",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Weapon Mastery",
       "type": "text",
       "x": 2320,
       "y": 890,
@@ -4275,7 +4325,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Partner Bond]]",
       "type": "text",
       "x": 2540,
       "y": 280,
@@ -4284,12 +4334,17 @@
       "color": "5"
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "6",
+      "height": 60,
+>>>>>>> origin/main
       "id": "d0e221d98b1f4214",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "x": 1150,
       "y": 280,
@@ -4297,12 +4352,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "3",
+      "height": 60,
+>>>>>>> origin/main
       "id": "18fa6be4d1af3c6d",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Passive Perception",
       "type": "text",
       "x": 930,
       "y": 280,
@@ -4329,7 +4389,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Combat Foraging]]",
       "type": "text",
       "x": 2460,
       "y": 590,
@@ -4367,6 +4427,7 @@
       "color": "1"
     },
     {
+<<<<<<< HEAD
       "id": "cc357c68fe06b34f",
       "styleAttributes": {
         "border": null,
@@ -4382,6 +4443,10 @@
       "color": "#c523c7"
     },
     {
+=======
+      "color": "5",
+      "height": 60,
+>>>>>>> origin/main
       "id": "9845ad2dc17c60a2",
       "styleAttributes": {
         "shape": "pill",
@@ -4424,12 +4489,17 @@
       "color": "5"
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "2",
+      "height": 60,
+>>>>>>> origin/main
       "id": "00cb6fedd17d5255",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "x": 1620,
       "y": -270,
@@ -4442,7 +4512,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Eye for Design]]",
       "type": "text",
       "x": 1465,
       "y": -390,
@@ -4451,12 +4521,17 @@
       "color": "5"
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "3",
+      "height": 60,
+>>>>>>> origin/main
       "id": "b513d2206cfbd761",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Passive Perception",
       "type": "text",
       "x": 1620,
       "y": -130,
@@ -4562,12 +4637,17 @@
       "color": "6"
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "6",
+      "height": 60,
+>>>>>>> origin/main
       "id": "bd7bd15980425e7e",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Stealth",
       "type": "text",
       "x": 2020,
       "y": -630,
@@ -4575,12 +4655,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "#d839db",
+      "height": 60,
+>>>>>>> origin/main
       "id": "70f3d4c702b49729",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Weapon Mastery",
       "type": "text",
       "x": 2240,
       "y": -630,
@@ -4865,7 +4950,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Vagabond]]",
       "type": "text",
       "x": -2040,
       "y": 650,
@@ -4889,12 +4974,17 @@
       "color": "#febd62"
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "4",
+      "height": 60,
+>>>>>>> origin/main
       "id": "f21e4b8237c7b3f5",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "x": -2060,
       "y": 80,
@@ -4902,12 +4992,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "6",
+      "height": 60,
+>>>>>>> origin/main
       "id": "68ca7cd28f8a8775",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "x": -2060,
       "y": 220,
@@ -4942,12 +5037,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "1",
+      "height": 60,
+>>>>>>> origin/main
       "id": "0bea53ff5aee09da",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Speed",
       "type": "text",
       "x": -2680,
       "y": 590,
@@ -4969,12 +5069,17 @@
       "color": "1"
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "1",
+      "height": 60,
+>>>>>>> origin/main
       "id": "244054bc73efcac4",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Speed",
       "type": "text",
       "x": -1440,
       "y": 590,
@@ -4995,12 +5100,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "4",
+      "height": 60,
+>>>>>>> origin/main
       "id": "850a31879f318d18",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "x": -2530,
       "y": 890,
@@ -5021,12 +5131,17 @@
       "height": 60
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "4",
+      "height": 60,
+>>>>>>> origin/main
       "id": "0e685f60b483ac79",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "x": -2750,
       "y": 890,
@@ -5048,12 +5163,17 @@
       "color": "5"
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "2",
+      "height": 60,
+>>>>>>> origin/main
       "id": "257ed93b6a37656c",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "x": -1590,
       "y": 890,
@@ -5119,7 +5239,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Persistence]]",
       "type": "text",
       "x": -1220,
       "y": 590,
@@ -5148,7 +5268,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Leader]]",
       "type": "text",
       "x": -2240,
       "y": -650,
@@ -5571,7 +5691,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Machinist]]",
       "type": "text",
       "x": 0,
       "y": -1320,
@@ -5622,12 +5742,17 @@
       "color": "5"
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "#4876fe",
+      "height": 60,
+>>>>>>> origin/main
       "id": "890225bb256d5f91",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Cyber Strain",
       "type": "text",
       "x": -220,
       "y": -940,
@@ -5649,12 +5774,17 @@
       "color": "5"
     },
     {
+<<<<<<< HEAD
+=======
+      "color": "#4876fe",
+      "height": 60,
+>>>>>>> origin/main
       "id": "bfa7cb464d9fcbdf",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Cyber Strain",
       "type": "text",
       "x": -220,
       "y": -800,
@@ -5921,7 +6051,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Mech Beast Upgrading]]",
       "type": "text",
       "x": 620,
       "y": -1300,
@@ -5935,7 +6065,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Recycling]]",
       "type": "text",
       "x": 695,
       "y": 890,
@@ -6399,7 +6529,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Enhanced Cybernetics]]",
       "type": "text",
       "x": -320,
       "y": -660,
@@ -6441,7 +6571,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Item Knowledge]]",
       "type": "text",
       "x": 1520,
       "y": -20,
@@ -6473,10 +6603,29 @@
       "text": "[[Pugilist]]",
       "type": "text",
       "x": -2240,
+<<<<<<< HEAD
       "y": 575,
       "width": 100,
       "height": 90,
       "color": "#0385b0"
+=======
+      "y": 575
+    },
+    {
+      "color": "#c523c7",
+      "height": 100,
+      "id": "cc357c68fe06b34f",
+      "styleAttributes": {
+        "border": null,
+        "shape": "diamond",
+        "textAlign": "center"
+      },
+      "text": "[[Scrapper]]",
+      "type": "text",
+      "width": 100,
+      "x": 1840,
+      "y": -650
+>>>>>>> origin/main
     }
   ]
 }

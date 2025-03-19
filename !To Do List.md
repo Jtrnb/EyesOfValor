@@ -3,7 +3,6 @@
 - Running the Game
 - Character Sheet
 - Make Enemies
-- Species? (Prolly Not)
 - More Content
 	- Weapons
 	- Enemies
