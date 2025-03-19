@@ -5401,13 +5401,14 @@
       "y": -630
     },
     {
+      "color": "6",
       "height": 60,
       "id": "bce499adaf69b6e7",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": -1590,
@@ -5428,26 +5429,28 @@
       "y": -330
     },
     {
+      "color": "3",
       "height": 60,
       "id": "9ac1534c8c3ad81b",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Passive Perception",
       "type": "text",
       "width": 140,
       "x": -1380,
       "y": -940
     },
     {
+      "color": "6",
       "height": 60,
       "id": "77785e7c951897e2",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": -2750,
@@ -5468,13 +5471,14 @@
       "y": -330
     },
     {
+      "color": "6",
       "height": 60,
       "id": "ec75cefbb74b2b07",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": -1590,
@@ -5522,13 +5526,14 @@
       "y": -940
     },
     {
+      "color": "4",
       "height": 60,
       "id": "9f88c02fb5bfd35d",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "width": 140,
       "x": -2750,
