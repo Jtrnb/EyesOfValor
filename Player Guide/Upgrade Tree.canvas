@@ -1,187 +1,185 @@
 {
   "edges": [
     {
-      "fromNode": "24bb820afe2f8d96",
-      "fromSide": "right",
       "id": "ce22282a9444aaf2",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "24bb820afe2f8d96",
+      "fromSide": "right",
       "toNode": "c25dae69ff61d533",
       "toSide": "left"
     },
     {
-      "fromNode": "c25dae69ff61d533",
-      "fromSide": "right",
       "id": "896ddf1cd8fe4fa4",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "c25dae69ff61d533",
+      "fromSide": "right",
       "toNode": "0c7a7d6c211a43f9",
       "toSide": "left"
     },
     {
-      "fromNode": "24bb820afe2f8d96",
-      "fromSide": "right",
       "id": "8ce76733e2054d5a",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "24bb820afe2f8d96",
+      "fromSide": "right",
       "toNode": "f8d2e6b6a6ee4001",
       "toSide": "left"
     },
     {
-      "fromNode": "f8d2e6b6a6ee4001",
-      "fromSide": "right",
       "id": "e94ad84db39fc05e",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "f8d2e6b6a6ee4001",
+      "fromSide": "right",
       "toNode": "b6609a59f0c0ae62",
       "toSide": "left"
     },
     {
-      "fromNode": "24bb820afe2f8d96",
-      "fromSide": "right",
       "id": "636054df63824c65",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "24bb820afe2f8d96",
+      "fromSide": "right",
       "toNode": "b5a0080f2a360b9e",
       "toSide": "left"
     },
     {
-      "fromNode": "b5a0080f2a360b9e",
-      "fromSide": "right",
       "id": "a1d8f2b8bf6d3e79",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "b5a0080f2a360b9e",
+      "fromSide": "right",
       "toNode": "aaa08dfb5762431e",
       "toSide": "left"
     },
     {
-      "fromNode": "b5a0080f2a360b9e",
-      "fromSide": "right",
       "id": "ec34f5d230ea1047",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "b5a0080f2a360b9e",
+      "fromSide": "right",
       "toNode": "d7ba2a3902f40e18",
       "toSide": "left"
     },
     {
-      "fromNode": "24bb820afe2f8d96",
-      "fromSide": "left",
       "id": "603abac6a15993fa",
       "styleAttributes": {
         "arrow": "diamond"
       },
+      "fromNode": "24bb820afe2f8d96",
+      "fromSide": "left",
       "toNode": "10182ee3115ce160",
       "toSide": "right"
     },
     {
-      "fromNode": "10182ee3115ce160",
-      "fromSide": "left",
       "id": "f2427c16f4889309",
       "styleAttributes": {
         "arrow": "diamond",
         "path": null,
         "pathfindingMethod": "square"
       },
+      "fromNode": "10182ee3115ce160",
+      "fromSide": "left",
       "toNode": "b88a4cb797a39c65",
       "toSide": "right"
     },
     {
-      "fromNode": "10182ee3115ce160",
-      "fromSide": "left",
       "id": "f11adad711de3dcb",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "10182ee3115ce160",
+      "fromSide": "left",
       "toNode": "9681cde4fd7e5906",
       "toSide": "right"
     },
     {
-      "fromNode": "10182ee3115ce160",
-      "fromSide": "left",
       "id": "511532c791c2a503",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "10182ee3115ce160",
+      "fromSide": "left",
       "toNode": "55c14d025600fd09",
       "toSide": "right"
     },
     {
-      "fromNode": "10182ee3115ce160",
-      "fromSide": "left",
       "id": "cea26c6da9f4b8ad",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "10182ee3115ce160",
+      "fromSide": "left",
       "toNode": "234a3bda0c7cf26b",
       "toSide": "right"
     },
     {
-      "fromNode": "10182ee3115ce160",
-      "fromSide": "left",
       "id": "08158d82b71282d1",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "10182ee3115ce160",
+      "fromSide": "left",
       "toNode": "2d3fa78509d7ecae",
       "toSide": "right"
     },
     {
-      "fromNode": "10182ee3115ce160",
-      "fromSide": "left",
       "id": "dc8c0f340377b79f",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "10182ee3115ce160",
+      "fromSide": "left",
       "toNode": "f2a74184570ab097",
       "toSide": "right"
     },
     {
-      "fromNode": "10182ee3115ce160",
-      "fromSide": "left",
       "id": "112bd2fe9801224c",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "10182ee3115ce160",
+      "fromSide": "left",
       "toNode": "93d4b7dae7610306",
       "toSide": "right"
     },
     {
-      "fromNode": "10182ee3115ce160",
-      "fromSide": "left",
       "id": "bf7ef745c6015c7f",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+      "fromNode": "10182ee3115ce160",
+      "fromSide": "left",
       "toNode": "cfc55fdf0d5ed868",
       "toSide": "right"
     }
   ],
-  "metadata": {
-  },
+  "metadata": {},
   "nodes": [
     {
-      "height": 60,
       "id": "b5a0080f2a360b9e",
       "styleAttributes": {
         "shape": "predefined-process",
@@ -189,13 +187,12 @@
       },
       "text": "3 Pts (Max 2 Times)",
       "type": "text",
-      "width": 190,
       "x": 150,
-      "y": 130
+      "y": 130,
+      "width": 190,
+      "height": 60
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "aaa08dfb5762431e",
       "styleAttributes": {
         "shape": "predefined-process",
@@ -203,13 +200,13 @@
       },
       "text": "Increase Speed by 5",
       "type": "text",
-      "width": 240,
       "x": 440,
-      "y": 70
+      "y": 70,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "d7ba2a3902f40e18",
       "styleAttributes": {
         "shape": "predefined-process",
@@ -217,13 +214,13 @@
       },
       "text": "Gain a Weapon Proficiency",
       "type": "text",
-      "width": 240,
       "x": 440,
-      "y": 190
+      "y": 190,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "b6609a59f0c0ae62",
       "styleAttributes": {
         "shape": null,
@@ -231,12 +228,13 @@
       },
       "text": "Increase A Stat by +1",
       "type": "text",
-      "width": 240,
       "x": 440,
-      "y": -40
+      "y": -40,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     },
     {
-      "height": 60,
       "id": "f8d2e6b6a6ee4001",
       "styleAttributes": {
         "shape": null,
@@ -244,13 +242,12 @@
       },
       "text": "2 Pts (Max 3 Times)",
       "type": "text",
-      "width": 190,
       "x": 150,
-      "y": -40
+      "y": -40,
+      "width": 190,
+      "height": 60
     },
     {
-      "color": "6",
-      "height": 120,
       "id": "24bb820afe2f8d96",
       "styleAttributes": {
         "shape": "diamond",
@@ -258,12 +255,13 @@
       },
       "text": "Upgrade Tree",
       "type": "text",
-      "width": 130,
       "x": -180,
-      "y": -70
+      "y": -70,
+      "width": 130,
+      "height": 120,
+      "color": "6"
     },
     {
-      "height": 60,
       "id": "10182ee3115ce160",
       "styleAttributes": {
         "shape": null,
@@ -271,116 +269,116 @@
       },
       "text": "2 pts (Max 5 Times)",
       "type": "text",
-      "width": 190,
       "x": -480,
-      "y": -40
+      "y": -40,
+      "width": 190,
+      "height": 60
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "234a3bda0c7cf26b",
       "styleAttributes": {
         "textAlign": "center"
       },
       "text": "Gain Augmenting Ability",
       "type": "text",
-      "width": 240,
       "x": -920,
-      "y": -340
+      "y": -340,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "55c14d025600fd09",
       "styleAttributes": {
         "textAlign": "center"
       },
       "text": "Gain Fabricating Ability",
       "type": "text",
-      "width": 240,
       "x": -920,
-      "y": -220
+      "y": -220,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "9681cde4fd7e5906",
       "styleAttributes": {
         "textAlign": "center"
       },
       "text": "Gain Mitigating Ability",
       "type": "text",
-      "width": 240,
       "x": -920,
-      "y": 10
+      "y": 10,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "b88a4cb797a39c65",
       "styleAttributes": {
         "textAlign": "center"
       },
       "text": "Gain Healing Ability",
       "type": "text",
-      "width": 240,
       "x": -920,
-      "y": -100
+      "y": -100,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "2d3fa78509d7ecae",
       "styleAttributes": {
         "textAlign": "center"
       },
       "text": "Gain Assaulting Ability",
       "type": "text",
-      "width": 240,
       "x": -920,
-      "y": -460
+      "y": -460,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "f2a74184570ab097",
       "styleAttributes": {
         "textAlign": "center"
       },
       "text": "Gain Protecting Ability",
       "type": "text",
-      "width": 240,
       "x": -920,
-      "y": 130
+      "y": 130,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "93d4b7dae7610306",
       "styleAttributes": {
         "textAlign": "center"
       },
       "text": "Gain Skulking Ability",
       "type": "text",
-      "width": 240,
       "x": -920,
-      "y": 240
+      "y": 240,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "cfc55fdf0d5ed868",
       "styleAttributes": {
         "textAlign": "center"
       },
       "text": "Gain Zoning Ability",
       "type": "text",
-      "width": 240,
       "x": -920,
-      "y": 360
+      "y": 360,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     },
     {
-      "height": 60,
       "id": "c25dae69ff61d533",
       "styleAttributes": {
         "shape": "pill",
@@ -388,13 +386,12 @@
       },
       "text": "1 Pt (Max 10 Times)",
       "type": "text",
-      "width": 190,
       "x": 150,
-      "y": -160
+      "y": -160,
+      "width": 190,
+      "height": 60
     },
     {
-      "color": "6",
-      "height": 60,
       "id": "0c7a7d6c211a43f9",
       "styleAttributes": {
         "shape": "pill",
@@ -402,9 +399,11 @@
       },
       "text": "Increase Hitpoints by 2 + Guts",
       "type": "text",
-      "width": 240,
       "x": 440,
-      "y": -160
+      "y": -160,
+      "width": 240,
+      "height": 60,
+      "color": "6"
     }
   ]
 }
