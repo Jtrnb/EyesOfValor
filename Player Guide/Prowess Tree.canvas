@@ -5224,7 +5224,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Improved Cooking]]",
       "type": "text",
       "width": 150,
       "x": -1915,
@@ -5464,7 +5464,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Rally]]",
       "type": "text",
       "width": 140,
       "x": -2980,
