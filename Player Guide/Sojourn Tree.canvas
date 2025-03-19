@@ -1,11 +1,18 @@
 {
   "edges": [
     {
+<<<<<<< HEAD
+=======
+      "fromEnd": "arrow",
+      "fromNode": "7587e3e6ac8ad4e0",
+      "fromSide": "bottom",
+>>>>>>> origin/main
       "id": "507d17855722291d",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "7587e3e6ac8ad4e0",
       "fromSide": "bottom",
       "toNode": "db3865f1208e043a",
@@ -13,11 +20,21 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "db3865f1208e043a",
+      "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "7587e3e6ac8ad4e0",
+      "fromSide": "bottom",
+>>>>>>> origin/main
       "id": "53b4ebd0fa8cb026",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "7587e3e6ac8ad4e0",
       "fromSide": "bottom",
       "toNode": "17c3bc1e3c6b46c6",
@@ -25,31 +42,57 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "17c3bc1e3c6b46c6",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "7587e3e6ac8ad4e0",
+      "fromSide": "right",
+>>>>>>> origin/main
       "id": "398a17e3aac1a0f7",
       "styleAttributes": {
         "arrow": "diamond"
       },
+<<<<<<< HEAD
       "fromNode": "7587e3e6ac8ad4e0",
       "fromSide": "right",
+=======
+>>>>>>> origin/main
       "toNode": "a1853983f1eb4025",
       "toSide": "left"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "7587e3e6ac8ad4e0",
+      "fromSide": "left",
+>>>>>>> origin/main
       "id": "d7e489fb88eef793",
       "styleAttributes": {
         "arrow": "diamond"
       },
+<<<<<<< HEAD
       "fromNode": "7587e3e6ac8ad4e0",
       "fromSide": "left",
+=======
+>>>>>>> origin/main
       "toNode": "d9459d4ed67314d7",
       "toSide": "right"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromEnd": "arrow",
+      "fromNode": "7919adbe57eea767",
+      "fromSide": "left",
+>>>>>>> origin/main
       "id": "8bc6299694783fcd",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "7919adbe57eea767",
       "fromSide": "left",
       "toNode": "9020efc4b6dd5102",
@@ -57,11 +100,21 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "9020efc4b6dd5102",
+      "toSide": "bottom"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "7919adbe57eea767",
+      "fromSide": "left",
+>>>>>>> origin/main
       "id": "d33590956b208f17",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "7919adbe57eea767",
       "fromSide": "left",
       "toNode": "9895bef634f5e43f",
@@ -69,11 +122,21 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "9895bef634f5e43f",
+      "toSide": "top"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "9020efc4b6dd5102",
+      "fromSide": "top",
+>>>>>>> origin/main
       "id": "e1dc146a5eaab951",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "9020efc4b6dd5102",
       "fromSide": "top",
       "toNode": "db3865f1208e043a",
@@ -81,119 +144,209 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "db3865f1208e043a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "7919adbe57eea767",
+      "fromSide": "top",
+>>>>>>> origin/main
       "id": "c6d1e48db15bc6e2",
       "styleAttributes": {
         "arrow": "diamond"
       },
+<<<<<<< HEAD
       "fromNode": "7919adbe57eea767",
       "fromSide": "top",
+=======
+>>>>>>> origin/main
       "toNode": "6bfabfc45ed163e9",
       "toSide": "bottom"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "7919adbe57eea767",
+      "fromSide": "bottom",
+>>>>>>> origin/main
       "id": "9e366e11c234f505",
       "styleAttributes": {
         "arrow": "diamond"
       },
+<<<<<<< HEAD
       "fromNode": "7919adbe57eea767",
       "fromSide": "bottom",
+=======
+>>>>>>> origin/main
       "toNode": "e2de51836cf3c941",
       "toSide": "top"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "d9459d4ed67314d7",
+      "fromSide": "top",
+>>>>>>> origin/main
       "id": "f945d42179792f61",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "d9459d4ed67314d7",
       "fromSide": "top",
+=======
+>>>>>>> origin/main
       "toNode": "9f67a2706edc885f",
       "toSide": "bottom"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "d9459d4ed67314d7",
+      "fromSide": "top",
+>>>>>>> origin/main
       "id": "8b13ced21716192e",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "d9459d4ed67314d7",
       "fromSide": "top",
+=======
+>>>>>>> origin/main
       "toNode": "b9f6aa7a72837522",
       "toSide": "bottom"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "a1853983f1eb4025",
+      "fromSide": "top",
+>>>>>>> origin/main
       "id": "8136670984db20d0",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "a1853983f1eb4025",
       "fromSide": "top",
+=======
+>>>>>>> origin/main
       "toNode": "7d1456786ca24943",
       "toSide": "bottom"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "a1853983f1eb4025",
+      "fromSide": "top",
+>>>>>>> origin/main
       "id": "0201cd596d0ccff4",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "a1853983f1eb4025",
       "fromSide": "top",
+=======
+>>>>>>> origin/main
       "toNode": "c66fc2072d8714e2",
       "toSide": "bottom"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "6bfabfc45ed163e9",
+      "fromSide": "right",
+>>>>>>> origin/main
       "id": "38e1db4c25f4b64e",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "6bfabfc45ed163e9",
       "fromSide": "right",
+=======
+>>>>>>> origin/main
       "toNode": "77aac8a5d9012497",
       "toSide": "left"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "6bfabfc45ed163e9",
+      "fromSide": "right",
+>>>>>>> origin/main
       "id": "ed2ab549eae81d02",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "6bfabfc45ed163e9",
       "fromSide": "right",
+=======
+>>>>>>> origin/main
       "toNode": "9a1e1b0be77956b2",
       "toSide": "left"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "e2de51836cf3c941",
+      "fromSide": "right",
+>>>>>>> origin/main
       "id": "4e9963d78a351546",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "e2de51836cf3c941",
       "fromSide": "right",
+=======
+>>>>>>> origin/main
       "toNode": "49ce914e96cb3589",
       "toSide": "left"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "e2de51836cf3c941",
+      "fromSide": "right",
+>>>>>>> origin/main
       "id": "bb2ab178fe6f6210",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "e2de51836cf3c941",
       "fromSide": "right",
+=======
+>>>>>>> origin/main
       "toNode": "c6b817dcfdf061c8",
       "toSide": "left"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromEnd": "arrow",
+      "fromNode": "da05be3d668f22af",
+      "fromSide": "top",
+>>>>>>> origin/main
       "id": "5345212743733a54",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "da05be3d668f22af",
       "fromSide": "top",
       "toNode": "72c390bb813e1dad",
@@ -201,11 +354,21 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "72c390bb813e1dad",
+      "toSide": "left"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "da05be3d668f22af",
+      "fromSide": "top",
+>>>>>>> origin/main
       "id": "cd4a5a335dc8f011",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "da05be3d668f22af",
       "fromSide": "top",
       "toNode": "9a4f3371114c8159",
@@ -213,11 +376,21 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "9a4f3371114c8159",
+      "toSide": "right"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "9895bef634f5e43f",
+      "fromSide": "bottom",
+>>>>>>> origin/main
       "id": "68415662c00142b7",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "9895bef634f5e43f",
       "fromSide": "bottom",
       "toNode": "72c390bb813e1dad",
@@ -225,75 +398,133 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "72c390bb813e1dad",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "da05be3d668f22af",
+      "fromSide": "right",
+>>>>>>> origin/main
       "id": "b062f5f51dbc3d48",
       "styleAttributes": {
         "arrow": "diamond"
       },
+<<<<<<< HEAD
       "fromNode": "da05be3d668f22af",
       "fromSide": "right",
+=======
+>>>>>>> origin/main
       "toNode": "67b2bd5fb55c8e3e",
       "toSide": "left"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "67b2bd5fb55c8e3e",
+      "fromSide": "bottom",
+>>>>>>> origin/main
       "id": "7dc092362e319d09",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "67b2bd5fb55c8e3e",
       "fromSide": "bottom",
+=======
+>>>>>>> origin/main
       "toNode": "03b7052289072962",
       "toSide": "top"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "67b2bd5fb55c8e3e",
+      "fromSide": "bottom",
+>>>>>>> origin/main
       "id": "7212cb500f93bc83",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "67b2bd5fb55c8e3e",
       "fromSide": "bottom",
+=======
+>>>>>>> origin/main
       "toNode": "5ca15e887b5d6ad9",
       "toSide": "top"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "da05be3d668f22af",
+      "fromSide": "left",
+>>>>>>> origin/main
       "id": "411600f7cfb5b839",
       "styleAttributes": {
         "arrow": "diamond"
       },
+<<<<<<< HEAD
       "fromNode": "da05be3d668f22af",
       "fromSide": "left",
+=======
+>>>>>>> origin/main
       "toNode": "dbc6426049f595c7",
       "toSide": "right"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "dbc6426049f595c7",
+      "fromSide": "bottom",
+>>>>>>> origin/main
       "id": "ea207bc952bb1644",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "dbc6426049f595c7",
       "fromSide": "bottom",
+=======
+>>>>>>> origin/main
       "toNode": "57691a8d36e09da6",
       "toSide": "top"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "dbc6426049f595c7",
+      "fromSide": "bottom",
+>>>>>>> origin/main
       "id": "f0463cf026e05516",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "dbc6426049f595c7",
       "fromSide": "bottom",
+=======
+>>>>>>> origin/main
       "toNode": "9bbdc1424120bb6a",
       "toSide": "top"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromEnd": "arrow",
+      "fromNode": "6e913fe6f5006227",
+      "fromSide": "right",
+>>>>>>> origin/main
       "id": "5e231725f0e169f3",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "6e913fe6f5006227",
       "fromSide": "right",
       "toNode": "ac097bf9ae222ae6",
@@ -301,11 +532,21 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "ac097bf9ae222ae6",
+      "toSide": "bottom"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "6e913fe6f5006227",
+      "fromSide": "right",
+>>>>>>> origin/main
       "id": "98274dbd1e3d8bd4",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "6e913fe6f5006227",
       "fromSide": "right",
       "toNode": "0bd7e9a7507d79f2",
@@ -313,11 +554,21 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "0bd7e9a7507d79f2",
+      "toSide": "top"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "ac097bf9ae222ae6",
+      "fromSide": "top",
+>>>>>>> origin/main
       "id": "876f39e8fb08d9b8",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "ac097bf9ae222ae6",
       "fromSide": "top",
       "toNode": "17c3bc1e3c6b46c6",
@@ -325,11 +576,21 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "17c3bc1e3c6b46c6",
+      "toSide": "bottom"
+    },
+    {
+      "fromEnd": "arrow",
+      "fromNode": "0bd7e9a7507d79f2",
+      "fromSide": "bottom",
+>>>>>>> origin/main
       "id": "5c4c81b6e2821a61",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "0bd7e9a7507d79f2",
       "fromSide": "bottom",
       "toNode": "9a4f3371114c8159",
@@ -337,73 +598,133 @@
       "fromEnd": "arrow"
     },
     {
+=======
+      "toNode": "9a4f3371114c8159",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "6e913fe6f5006227",
+      "fromSide": "bottom",
+>>>>>>> origin/main
       "id": "46dec95356b33dc7",
       "styleAttributes": {
         "arrow": "diamond"
       },
+<<<<<<< HEAD
       "fromNode": "6e913fe6f5006227",
       "fromSide": "bottom",
+=======
+>>>>>>> origin/main
       "toNode": "c2a6d6bc4d1b0f80",
       "toSide": "top"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "6e913fe6f5006227",
+      "fromSide": "top",
+>>>>>>> origin/main
       "id": "114a0c1519df5776",
       "styleAttributes": {
         "arrow": "diamond"
       },
+<<<<<<< HEAD
       "fromNode": "6e913fe6f5006227",
       "fromSide": "top",
+=======
+>>>>>>> origin/main
       "toNode": "5f5ad952818f74af",
       "toSide": "bottom"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "5f5ad952818f74af",
+      "fromSide": "left",
+>>>>>>> origin/main
       "id": "b9ac99ec643607f3",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "5f5ad952818f74af",
       "fromSide": "left",
+=======
+>>>>>>> origin/main
       "toNode": "f3f2073603876e71",
       "toSide": "right"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "5f5ad952818f74af",
+      "fromSide": "left",
+>>>>>>> origin/main
       "id": "8f06fe4068f93357",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "5f5ad952818f74af",
       "fromSide": "left",
+=======
+>>>>>>> origin/main
       "toNode": "8ae454dc3c7f9b61",
       "toSide": "right"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "c2a6d6bc4d1b0f80",
+      "fromSide": "left",
+>>>>>>> origin/main
       "id": "d9a8eb94e72a257e",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "c2a6d6bc4d1b0f80",
       "fromSide": "left",
+=======
+>>>>>>> origin/main
       "toNode": "757ec5e2d1124952",
       "toSide": "right"
     },
     {
+<<<<<<< HEAD
+=======
+      "fromNode": "c2a6d6bc4d1b0f80",
+      "fromSide": "left",
+>>>>>>> origin/main
       "id": "418559dd760fc1c6",
       "styleAttributes": {
         "arrow": "diamond",
         "pathfindingMethod": "square"
       },
+<<<<<<< HEAD
       "fromNode": "c2a6d6bc4d1b0f80",
       "fromSide": "left",
+=======
+>>>>>>> origin/main
       "toNode": "de35a6d8256d05f4",
       "toSide": "right"
     }
   ],
+<<<<<<< HEAD
   "metadata": {},
   "nodes": [
     {
+=======
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "color": "4",
+      "height": 120,
+>>>>>>> origin/main
       "id": "7587e3e6ac8ad4e0",
       "styleAttributes": {
         "shape": "diamond",
@@ -411,6 +732,7 @@
       },
       "text": "[[Forests]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 80,
       "y": -640,
       "width": 120,
@@ -418,6 +740,14 @@
       "color": "4"
     },
     {
+=======
+      "width": 120,
+      "x": 80,
+      "y": -640
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "a1853983f1eb4025",
       "styleAttributes": {
         "shape": "pill",
@@ -425,12 +755,22 @@
       },
       "text": "[[Lofting Tow]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 275,
       "y": -610,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 275,
+      "y": -610
+    },
+    {
+      "color": "#a17d9e",
+      "height": 60,
+>>>>>>> origin/main
       "id": "17c3bc1e3c6b46c6",
       "styleAttributes": {
         "shape": null,
@@ -438,6 +778,7 @@
       },
       "text": "[[Medical Room]]",
       "type": "text",
+<<<<<<< HEAD
       "x": -70,
       "y": -480,
       "width": 150,
@@ -445,6 +786,15 @@
       "color": "#a17d9e"
     },
     {
+=======
+      "width": 150,
+      "x": -70,
+      "y": -480
+    },
+    {
+      "color": "#a17d9e",
+      "height": 60,
+>>>>>>> origin/main
       "id": "db3865f1208e043a",
       "styleAttributes": {
         "shape": null,
@@ -452,6 +802,7 @@
       },
       "text": "[[Faster Travel]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 200,
       "y": -480,
       "width": 150,
@@ -459,6 +810,14 @@
       "color": "#a17d9e"
     },
     {
+=======
+      "width": 150,
+      "x": 200,
+      "y": -480
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "d9459d4ed67314d7",
       "styleAttributes": {
         "shape": "pill",
@@ -466,12 +825,22 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": -145,
       "y": -610,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -145,
+      "y": -610
+    },
+    {
+      "color": "5",
+      "height": 120,
+>>>>>>> origin/main
       "id": "da05be3d668f22af",
       "styleAttributes": {
         "shape": "diamond",
@@ -479,6 +848,7 @@
       },
       "text": "[[Oceans]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 80,
       "y": 120,
       "width": 120,
@@ -486,6 +856,15 @@
       "color": "5"
     },
     {
+=======
+      "width": 120,
+      "x": 80,
+      "y": 120
+    },
+    {
+      "color": "#ffffff",
+      "height": 120,
+>>>>>>> origin/main
       "id": "7919adbe57eea767",
       "styleAttributes": {
         "shape": "diamond",
@@ -493,6 +872,7 @@
       },
       "text": "[[Mountains]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 480,
       "y": -280,
       "width": 120,
@@ -500,6 +880,15 @@
       "color": "#ffffff"
     },
     {
+=======
+      "width": 120,
+      "x": 480,
+      "y": -280
+    },
+    {
+      "color": "2",
+      "height": 120,
+>>>>>>> origin/main
       "id": "6e913fe6f5006227",
       "styleAttributes": {
         "shape": "diamond",
@@ -507,6 +896,7 @@
       },
       "text": "[[Plains and Deserts]]",
       "type": "text",
+<<<<<<< HEAD
       "x": -320,
       "y": -280,
       "width": 120,
@@ -514,6 +904,15 @@
       "color": "2"
     },
     {
+=======
+      "width": 120,
+      "x": -320,
+      "y": -280
+    },
+    {
+      "color": "#a17d9e",
+      "height": 60,
+>>>>>>> origin/main
       "id": "9020efc4b6dd5102",
       "styleAttributes": {
         "shape": null,
@@ -521,6 +920,7 @@
       },
       "text": "[[Sleeping Quarters]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 275,
       "y": -340,
       "width": 150,
@@ -528,6 +928,15 @@
       "color": "#a17d9e"
     },
     {
+=======
+      "width": 150,
+      "x": 275,
+      "y": -340
+    },
+    {
+      "color": "#a17d9e",
+      "height": 60,
+>>>>>>> origin/main
       "id": "9895bef634f5e43f",
       "styleAttributes": {
         "shape": null,
@@ -535,6 +944,7 @@
       },
       "text": "[[Defenses]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 275,
       "y": -160,
       "width": 150,
@@ -542,6 +952,14 @@
       "color": "#a17d9e"
     },
     {
+=======
+      "width": 150,
+      "x": 275,
+      "y": -160
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "6bfabfc45ed163e9",
       "styleAttributes": {
         "shape": "pill",
@@ -549,12 +967,21 @@
       },
       "text": "[[Climbing Anchors]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 465,
       "y": -420,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 465,
+      "y": -420
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "e2de51836cf3c941",
       "styleAttributes": {
         "shape": "pill",
@@ -562,12 +989,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": 465,
       "y": -80,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 465,
+      "y": -80
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "c6b817dcfdf061c8",
       "styleAttributes": {
         "shape": "pill",
@@ -575,12 +1011,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": 700,
       "y": 20,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 700,
+      "y": 20
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "49ce914e96cb3589",
       "styleAttributes": {
         "shape": "pill",
@@ -588,12 +1033,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": 700,
       "y": -190,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 700,
+      "y": -190
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "9a1e1b0be77956b2",
       "styleAttributes": {
         "shape": "pill",
@@ -601,12 +1055,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": 700,
       "y": -310,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 700,
+      "y": -310
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "77aac8a5d9012497",
       "styleAttributes": {
         "shape": "pill",
@@ -614,12 +1077,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": 700,
       "y": -520,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 700,
+      "y": -520
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "7d1456786ca24943",
       "styleAttributes": {
         "shape": "pill",
@@ -627,12 +1099,21 @@
       },
       "text": "[[Game Traps]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 200,
       "y": -780,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 200,
+      "y": -780
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "c66fc2072d8714e2",
       "styleAttributes": {
         "shape": "pill",
@@ -640,12 +1121,21 @@
       },
       "text": "[[Camouflage]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 425,
       "y": -780,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 425,
+      "y": -780
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "b9f6aa7a72837522",
       "styleAttributes": {
         "shape": "pill",
@@ -653,12 +1143,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": -70,
       "y": -780,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -70,
+      "y": -780
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "9f67a2706edc885f",
       "styleAttributes": {
         "shape": "pill",
@@ -666,12 +1165,22 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": -320,
       "y": -780,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -320,
+      "y": -780
+    },
+    {
+      "color": "#a17d9e",
+      "height": 60,
+>>>>>>> origin/main
       "id": "72c390bb813e1dad",
       "styleAttributes": {
         "shape": null,
@@ -679,6 +1188,7 @@
       },
       "text": "[[Scanning Tower]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 200,
       "y": -10,
       "width": 150,
@@ -686,6 +1196,15 @@
       "color": "#a17d9e"
     },
     {
+=======
+      "width": 150,
+      "x": 200,
+      "y": -10
+    },
+    {
+      "color": "#a17d9e",
+      "height": 60,
+>>>>>>> origin/main
       "id": "9a4f3371114c8159",
       "styleAttributes": {
         "shape": null,
@@ -693,6 +1212,7 @@
       },
       "text": "[[Beast Den]]",
       "type": "text",
+<<<<<<< HEAD
       "x": -70,
       "y": -10,
       "width": 150,
@@ -700,6 +1220,14 @@
       "color": "#a17d9e"
     },
     {
+=======
+      "width": 150,
+      "x": -70,
+      "y": -10
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "67b2bd5fb55c8e3e",
       "styleAttributes": {
         "shape": "pill",
@@ -707,12 +1235,21 @@
       },
       "text": "[[Boat Cannons]]",
       "type": "text",
+<<<<<<< HEAD
       "x": 275,
       "y": 150,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 275,
+      "y": 150
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "03b7052289072962",
       "styleAttributes": {
         "shape": "pill",
@@ -720,12 +1257,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": 200,
       "y": 320,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 200,
+      "y": 320
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "5ca15e887b5d6ad9",
       "styleAttributes": {
         "shape": "pill",
@@ -733,12 +1279,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": 425,
       "y": 320,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": 425,
+      "y": 320
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "9bbdc1424120bb6a",
       "styleAttributes": {
         "shape": "pill",
@@ -746,12 +1301,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": -320,
       "y": 320,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -320,
+      "y": 320
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "57691a8d36e09da6",
       "styleAttributes": {
         "shape": "pill",
@@ -759,12 +1323,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": -95,
       "y": 320,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -95,
+      "y": 320
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "dbc6426049f595c7",
       "styleAttributes": {
         "shape": "pill",
@@ -772,12 +1345,22 @@
       },
       "text": "[[Trawling Net]]",
       "type": "text",
+<<<<<<< HEAD
       "x": -145,
       "y": 150,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -145,
+      "y": 150
+    },
+    {
+      "color": "#a17d9e",
+      "height": 60,
+>>>>>>> origin/main
       "id": "ac097bf9ae222ae6",
       "styleAttributes": {
         "shape": null,
@@ -785,6 +1368,7 @@
       },
       "text": "[[Watch Tower]]",
       "type": "text",
+<<<<<<< HEAD
       "x": -145,
       "y": -340,
       "width": 150,
@@ -792,6 +1376,15 @@
       "color": "#a17d9e"
     },
     {
+=======
+      "width": 150,
+      "x": -145,
+      "y": -340
+    },
+    {
+      "color": "#a17d9e",
+      "height": 60,
+>>>>>>> origin/main
       "id": "0bd7e9a7507d79f2",
       "styleAttributes": {
         "shape": null,
@@ -799,6 +1392,7 @@
       },
       "text": "[[Kitchen]]",
       "type": "text",
+<<<<<<< HEAD
       "x": -145,
       "y": -160,
       "width": 150,
@@ -806,6 +1400,14 @@
       "color": "#a17d9e"
     },
     {
+=======
+      "width": 150,
+      "x": -145,
+      "y": -160
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "5f5ad952818f74af",
       "styleAttributes": {
         "shape": "pill",
@@ -813,12 +1415,21 @@
       },
       "text": "[[Rain Collector]]",
       "type": "text",
+<<<<<<< HEAD
       "x": -335,
       "y": -420,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -335,
+      "y": -420
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "c2a6d6bc4d1b0f80",
       "styleAttributes": {
         "shape": "pill",
@@ -826,12 +1437,21 @@
       },
       "text": "[[Storm Shields]]",
       "type": "text",
+<<<<<<< HEAD
       "x": -335,
       "y": -80,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -335,
+      "y": -80
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "757ec5e2d1124952",
       "styleAttributes": {
         "shape": "pill",
@@ -839,12 +1459,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": -560,
       "y": 20,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -560,
+      "y": 20
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "de35a6d8256d05f4",
       "styleAttributes": {
         "shape": "pill",
@@ -852,12 +1481,21 @@
       },
       "text": "",
       "type": "text",
+<<<<<<< HEAD
       "x": -560,
       "y": -190,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -560,
+      "y": -190
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "8ae454dc3c7f9b61",
       "styleAttributes": {
         "shape": "pill",
@@ -865,12 +1503,21 @@
       },
       "text": "[[Plant Bed]]",
       "type": "text",
+<<<<<<< HEAD
       "x": -560,
       "y": -310,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -560,
+      "y": -310
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "022d0b5f9635a750",
       "styleAttributes": {
         "shape": "pill",
@@ -878,12 +1525,21 @@
       },
       "text": "2pts",
       "type": "text",
+<<<<<<< HEAD
       "x": 220,
       "y": -250,
       "width": 80,
       "height": 60
     },
     {
+=======
+      "width": 80,
+      "x": 220,
+      "y": -250
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "7d8d1f7862be171b",
       "styleAttributes": {
         "shape": "diamond",
@@ -891,12 +1547,21 @@
       },
       "text": "5pts",
       "type": "text",
+<<<<<<< HEAD
       "x": 5,
       "y": -250,
       "width": 60,
       "height": 60
     },
     {
+=======
+      "width": 60,
+      "x": 5,
+      "y": -250
+    },
+    {
+      "height": 60,
+>>>>>>> origin/main
       "id": "f3f2073603876e71",
       "styleAttributes": {
         "shape": "pill",
@@ -904,12 +1569,22 @@
       },
       "text": "[[Water Capacity]]",
       "type": "text",
+<<<<<<< HEAD
       "x": -560,
       "y": -520,
       "width": 150,
       "height": 60
     },
     {
+=======
+      "width": 150,
+      "x": -560,
+      "y": -520
+    },
+    {
+      "color": "#6d576b",
+      "height": 60,
+>>>>>>> origin/main
       "id": "8df859fd5ad1a8af",
       "styleAttributes": {
         "shape": null,
@@ -917,6 +1592,7 @@
       },
       "text": "No Order",
       "type": "text",
+<<<<<<< HEAD
       "x": 90,
       "y": -310,
       "width": 100,
@@ -924,6 +1600,15 @@
       "color": "#6d576b"
     },
     {
+=======
+      "width": 100,
+      "x": 90,
+      "y": -310
+    },
+    {
+      "color": "#6d576b",
+      "height": 60,
+>>>>>>> origin/main
       "id": "1991ac023ad6d389",
       "styleAttributes": {
         "shape": null,
@@ -931,11 +1616,17 @@
       },
       "text": "1 pt",
       "type": "text",
+<<<<<<< HEAD
       "x": 90,
       "y": -190,
       "width": 100,
       "height": 60,
       "color": "#6d576b"
+=======
+      "width": 100,
+      "x": 90,
+      "y": -190
+>>>>>>> origin/main
     }
   ]
 }
