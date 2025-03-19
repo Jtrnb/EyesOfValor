@@ -4757,7 +4757,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Flurry Attacks]]",
       "type": "text",
       "width": 140,
       "x": -2980,
@@ -6364,7 +6364,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Deflection]]",
       "type": "text",
       "width": 140,
       "x": -1145,
