@@ -5231,13 +5231,14 @@
       "y": -390
     },
     {
+      "color": "2",
       "height": 60,
       "id": "fcd735d3dbeea7d3",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "width": 140,
       "x": -2060,
@@ -5507,13 +5508,14 @@
       "y": -940
     },
     {
+      "color": "#d39eff",
       "height": 60,
       "id": "01057f057a029e63",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Damage Avoidance",
       "type": "text",
       "width": 140,
       "x": -2530,
