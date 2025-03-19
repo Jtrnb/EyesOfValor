@@ -4821,13 +4821,14 @@
       "y": 830
     },
     {
+      "color": "6",
       "height": 60,
       "id": "f2810ee616789925",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": -2060,
@@ -4848,13 +4849,14 @@
       "y": 830
     },
     {
+      "color": "#e43ac5",
       "height": 60,
       "id": "4a1605acd07957a3",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Weapon Mastery",
       "type": "text",
       "width": 140,
       "x": -2060,
@@ -4933,13 +4935,14 @@
       "y": 1230
     },
     {
+      "color": "6",
       "height": 60,
       "id": "c3346ee890e878fb",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": -2460,
@@ -4988,13 +4991,14 @@
       "y": 590
     },
     {
+      "color": "#d539b8",
       "height": 60,
       "id": "08e5b5217f005f7c",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Weapon Mastery",
       "type": "text",
       "width": 140,
       "x": -1590,
@@ -5015,13 +5019,14 @@
       "y": 890
     },
     {
+      "color": "4",
       "height": 60,
       "id": "557a3136c6fa22aa",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "width": 140,
       "x": -1380,
@@ -5083,13 +5088,14 @@
       "y": 890
     },
     {
+      "color": "2",
       "height": 60,
       "id": "01eb49cb23f3f64f",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "width": 140,
       "x": -2530,
