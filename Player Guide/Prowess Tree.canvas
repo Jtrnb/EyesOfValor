@@ -4786,7 +4786,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Melee]]",
       "type": "text",
       "width": 150,
       "x": -2215,
@@ -4842,7 +4842,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Guarding]]",
       "type": "text",
       "width": 150,
       "x": -2215,
@@ -4928,7 +4928,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Target Priority]]",
       "type": "text",
       "width": 140,
       "x": -2060,
