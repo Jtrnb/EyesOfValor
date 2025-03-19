@@ -5591,7 +5591,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Tinker]]",
       "type": "text",
       "width": 100,
       "x": -400,
@@ -5946,7 +5946,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Blast Control]]",
       "type": "text",
       "width": 140,
       "x": -1070,
