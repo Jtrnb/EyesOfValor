@@ -5777,26 +5777,28 @@
       "y": -1300
     },
     {
+      "color": "6",
       "height": 60,
       "id": "b683dcb849b4f8a9",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": 180,
       "y": -1300
     },
     {
+      "color": "4",
       "height": 60,
       "id": "c31b2c6bc330f442",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Beast Handling",
       "type": "text",
       "width": 140,
       "x": 400,
