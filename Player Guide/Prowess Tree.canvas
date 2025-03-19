@@ -5075,13 +5075,14 @@
       "y": 890
     },
     {
+      "color": "#a02c96",
       "height": 60,
       "id": "c7978bba30f60931",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Weapon Mastery",
       "type": "text",
       "width": 140,
       "x": -1360,
@@ -5102,13 +5103,14 @@
       "y": 280
     },
     {
+      "color": "1",
       "height": 60,
       "id": "11fa60d8ae0fe7fd",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Speed",
       "type": "text",
       "width": 140,
       "x": -2750,
