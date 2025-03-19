@@ -5767,26 +5767,28 @@
       "y": -1940
     },
     {
+      "color": "4",
       "height": 60,
       "id": "0fb7140d0057d75c",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "width": 140,
       "x": -620,
       "y": -1300
     },
     {
+      "color": "2",
       "height": 60,
       "id": "2867701a773d7d02",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "width": 140,
       "x": -840,
