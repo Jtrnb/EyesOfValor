@@ -5372,26 +5372,28 @@
       "y": -630
     },
     {
+      "color": "6",
       "height": 60,
       "id": "ca89c6f8d9e4b58c",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": -1660,
       "y": -630
     },
     {
+      "color": "2",
       "height": 60,
       "id": "43f4bb621a39e31a",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "width": 140,
       "x": -1440,
@@ -5538,7 +5540,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Battle Tactics]]",
       "type": "text",
       "width": 140,
       "x": -2910,
