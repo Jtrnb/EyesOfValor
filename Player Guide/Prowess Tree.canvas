@@ -5485,13 +5485,14 @@
       "y": -330
     },
     {
+      "color": "2",
       "height": 60,
       "id": "f02d924734395a97",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Capacity",
       "type": "text",
       "width": 140,
       "x": -1360,
@@ -5512,7 +5513,7 @@
       "y": -940
     },
     {
-      "color": "#d39eff",
+      "color": "#1633c0",
       "height": 60,
       "id": "01057f057a029e63",
       "styleAttributes": {
