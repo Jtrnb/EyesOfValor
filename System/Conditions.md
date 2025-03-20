@@ -31,3 +31,5 @@
 - Your [[Creating A Character#Determining Hitpoints:|Hitpoint]] maximum is reduced by 1/4 your normal [[Creating A Character#Determining Hitpoints:|Hitpoint]] maximum.
 ## Blinded:
 - You cannot see.
+## Deafened:
+- You cannot hear.
