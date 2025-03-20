@@ -4590,13 +4590,14 @@
       "y": -630
     },
     {
+      "color": "6",
       "height": 60,
       "id": "204c6d80dbb65f66",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Stealth",
       "type": "text",
       "width": 140,
       "x": 2090,
@@ -4642,13 +4643,14 @@
       "y": -330
     },
     {
+      "color": "2",
       "height": 60,
       "id": "a7d94d8bc47b1d72",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "width": 140,
       "x": 2090,
@@ -4669,13 +4671,14 @@
       "y": -330
     },
     {
+      "color": "6",
       "height": 60,
       "id": "c944f82bdd9bdb47",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": 2320,
