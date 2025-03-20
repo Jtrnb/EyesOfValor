@@ -4743,7 +4743,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Beast Grafting]]",
       "type": "text",
       "width": 140,
       "x": 2460,
@@ -5720,7 +5720,7 @@
         "shape": "diamond",
         "textAlign": "center"
       },
-      "text": "[[Engineer]]",
+      "text": "",
       "type": "text",
       "width": 100,
       "x": -200,
