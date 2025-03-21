@@ -4725,7 +4725,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "+1 Avoidance",
+      "text": "+1 Damage Avoidance",
       "type": "text",
       "width": 140,
       "x": 930,
