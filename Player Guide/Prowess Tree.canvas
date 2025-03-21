@@ -4606,13 +4606,14 @@
       "y": -940
     },
     {
+      "color": "2",
       "height": 60,
       "id": "0195bb43682c8128",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Capacity",
       "type": "text",
       "width": 140,
       "x": 1150,
@@ -4633,13 +4634,14 @@
       "y": -940
     },
     {
+      "color": "6",
       "height": 60,
       "id": "b3611509aec0a0c5",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade ",
       "type": "text",
       "width": 140,
       "x": 930,
@@ -4702,13 +4704,14 @@
       "y": -940
     },
     {
+      "color": "4",
       "height": 60,
       "id": "d24a01fbcaa0fbe7",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "width": 140,
       "x": 1150,
@@ -4735,7 +4738,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Environmental Weapons]]",
       "type": "text",
       "width": 140,
       "x": 770,
