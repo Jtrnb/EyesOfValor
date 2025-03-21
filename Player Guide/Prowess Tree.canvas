@@ -5586,7 +5586,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Experimental Design]]",
       "type": "text",
       "width": 140,
       "x": -1140,
@@ -5863,13 +5863,14 @@
       "y": -1000
     },
     {
+      "color": "4",
       "height": 60,
       "id": "06ba9ecd1ef0b76a",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+5 Hitpoints",
       "type": "text",
       "width": 140,
       "x": 460,
