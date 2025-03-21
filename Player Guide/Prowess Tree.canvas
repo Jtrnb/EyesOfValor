@@ -4718,13 +4718,14 @@
       "y": -940
     },
     {
+      "color": "#2128e8",
       "height": 60,
       "id": "d62a67c187067d3d",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Avoidance",
       "type": "text",
       "width": 140,
       "x": 930,
