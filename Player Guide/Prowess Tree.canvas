@@ -5737,26 +5737,28 @@
       "y": -1400
     },
     {
+      "color": "#f934df",
       "height": 60,
       "id": "b64ade855fd27311",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Weapon Mastery",
       "type": "text",
       "width": 140,
       "x": -220,
       "y": -1810
     },
     {
+      "color": "6",
       "height": 60,
       "id": "ad0a045954ed2d12",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": -220,
@@ -5770,7 +5772,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Amplify]]",
       "type": "text",
       "width": 140,
       "x": -220,
@@ -5833,13 +5835,14 @@
       "y": -1300
     },
     {
+      "color": "6",
       "height": 60,
       "id": "3fa9637c5f9348db",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": 250,
@@ -5929,26 +5932,28 @@
       "y": -1610
     },
     {
+      "color": "2",
       "height": 60,
       "id": "b7c7ce8894594d86",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Reaction",
       "type": "text",
       "width": 140,
       "x": -690,
       "y": -1610
     },
     {
+      "color": "#426ed7",
       "height": 60,
       "id": "6a0472b550ab19ec",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "+1 Cyber Strain",
       "type": "text",
       "width": 140,
       "x": -910,
