@@ -5630,7 +5630,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Amplify]]",
       "type": "text",
       "width": 150,
       "x": -375,
@@ -5644,7 +5644,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Tools Precision]]",
       "type": "text",
       "width": 150,
       "x": -75,
@@ -5772,7 +5772,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "[[Amplify]]",
+      "text": "[[Weapon Forging]]",
       "type": "text",
       "width": 140,
       "x": -220,
