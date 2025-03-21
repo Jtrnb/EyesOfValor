@@ -4641,7 +4641,7 @@
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "+1 Upgrade ",
+      "text": "+1 Upgrade Point",
       "type": "text",
       "width": 140,
       "x": 930,
