@@ -45,6 +45,11 @@ Health is made up from 3 different types that collectively make a characters Hea
 - <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions are actions that may be used off of your turn or in response to other actions. 
 - <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions may be used only in response to the triggers given on each <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Action.
 - <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions may not interrupt an Active action unless otherwise stated.
+#### <span style="font-weight:bold; color:rgb(235, 152, 52)">Closer</span> Actions:
+- <span style="font-weight:bold; color:rgb(235, 152, 52)">Closer</span> Actions are actions that may by used on your turn.
+- <span style="font-weight:bold; color:rgb(235, 152, 52)">Closer</span> Actions are a final action that once used you may no longer spend action points until the start of your next turn.
+- <span style="font-weight:bold; color:rgb(235, 152, 52)">Closer</span> Actions have an effect that will begin at the end of your turn and end at the start of your next turn.
+
 ### Common Actions:
 - Common Actions are Actions that all character share regardless of current abilities.
 #### Attacking/ Abilities/ Items (<span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>, <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span>):
