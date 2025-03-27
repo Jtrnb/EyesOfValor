@@ -9,4 +9,4 @@
 #### Range: Weapon Dependant
 #### Effects:
 - You may an Attack with your current weapon. On a successful hit the target's speed is reduced by 5.
-- If this attack is a [[Combat#Targeted Attacks:|Targeted Attack]], your attack does 5 additional damage.
+- If this attack is a [[Combat#Targeted Attacks:|Targeted Attack]], your attack does 1d6 additional damage.
