@@ -12,6 +12,5 @@
 ### Name:
 #### Hitpoints:
 #### Damage Avoidance:
-
 ## Action Points:
 ## Actions:
