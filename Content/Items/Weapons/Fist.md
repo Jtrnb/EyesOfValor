@@ -7,6 +7,7 @@
 #### Attributes: Prone
 #### Scaling Stat: Strength
 #### Type: Melee
+#### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: Instant
 #### Range: 5 feet
 #### Effects:
