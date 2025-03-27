@@ -4,7 +4,7 @@
 ## Beast Loyalty and Trainability:
 #### Beast Loyalty:
 - Every beast, both mechanical and wild has a loyalty which determines how it will act toward you. It's behavior is determined by the following table.
-- - Most beasts will have a starting loyalty of 0-1. 
+- Most beasts will have a starting loyalty of 0-1. 
 #### Partnered Beasts:
 - When you have a Beast fully loyal to you, you may designate it as your partner. You may only have 1 Partnered beast during a Hunt. However, you may switch your partnered beast during [[Playing the Game#Downtime:|Downtime]].
 - A partnered beast does not count toward you the maximum number of beasts you can bring on a [[Playing the Game#Hunts:|Hunt]].
