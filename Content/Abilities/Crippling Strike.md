@@ -6,7 +6,7 @@
 #### Type: Weapon Dependent 
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: Instant
-#### Range: Weapon Dependant
+#### Range: Weapon Dependent
 #### Effects:
 - You may an Attack with your current weapon. On a successful hit the target's speed is reduced by 5.
 - If this attack is a [[Combat#Targeted Attacks:|Targeted Attack]], your attack does 1d6 additional damage.
