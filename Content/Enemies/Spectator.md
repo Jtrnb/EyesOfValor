@@ -9,10 +9,10 @@
 - Instinct: -1
 - Charm: -4
 ## Speed: 35
+## <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Points</span>:  3
+## Actions:
 ## Parts:
-### Name: Spectator Eye
+### <span style="font-weight:bold;color:rgb(240, 164, 0)">Name</span>: Spectator Eye
 #### Hitpoints: 15
 #### Damage Avoidance: 13
-## Actions:
-## <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Points</span>:  3
 ## Actions:
