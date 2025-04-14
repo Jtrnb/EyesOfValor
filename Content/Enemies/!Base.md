@@ -1,4 +1,5 @@
 ## Hitpoints:
+## Type:
 ## Damage Avoidance:
 ## Loyalty:
 ## Stats:
