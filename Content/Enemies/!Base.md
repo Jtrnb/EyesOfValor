@@ -3,11 +3,15 @@
 ## Damage Avoidance:
 ## Loyalty:
 ## Stats:
-- Strength
-- Deftness
-- Intellect
-- Instinct
-- Charm
+
+| Stat      | Value |
+| --------- | ----- |
+| Strength  |       |
+| Deftness  |       |
+| Intellect |       |
+| Instinct  |       |
+| Charm     |       |
+
 ## Speed:
 ## <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Points</span>:
 ## Actions:
