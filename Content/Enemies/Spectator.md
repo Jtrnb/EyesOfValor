@@ -18,11 +18,11 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Name</span>: Alarm
 
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Points</span> Cost: 1
-#### Type:
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: Instant
 #### Range: 35 feet
-#### Effects:
+#### Effects: 
+- The [[Spectator]] emits a load screeching alarm that alerts all Mechanical Beasts within a 35 foot radius and sets their loyalty to zero. They are alerted of your current location.
 ## Parts:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Name</span>: Spectator Eye
 #### Hitpoints: 15
