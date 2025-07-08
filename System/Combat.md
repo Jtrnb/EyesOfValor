@@ -35,10 +35,9 @@ Health is made up from 3 different types that collectively make a characters Hea
 	- Grabbing: You may use this action while grabbing.
 	- Grabbed: You may use this action while being grabbed.
 - A Prerequisite determines when an Action may be used.
-	
 	- Ariel: You may only use this action in the air.
 	- Grounded: You may only use this action on the ground. 
-### Action Types:
+### Action Speed:
 #### <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span> Actions:
 - <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span> Actions are used on your turn and only on your turn. These actions may not be used during other players turns or in response to other actions unless otherwise stated.
 #### <span style="font-weight:bold; color:rgb(33, 117, 235)">Fluid</span> Actions:

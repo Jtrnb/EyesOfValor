@@ -1,5 +1,3 @@
-## Effects:
-### <span style="font-weight:bold;color:rgb(240, 164, 0)">Name</span>
 ## Actions:
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Name</span>
 
