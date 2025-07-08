@@ -368,7 +368,7 @@
 		{
 			"id":"da05be3d668f22af",
 			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"text":"[[Oceans]]",
+			"text":"[[Training Room]]",
 			"type":"text",
 			"x":80,
 			"y":120,
@@ -418,7 +418,7 @@
 				"shape":null,
 				"textAlign":"center"
 			},
-			"text":"[[Safe Storage]]",
+			"text":"[[Workbench]]",
 			"type":"text",
 			"x":275,
 			"y":-160,
