@@ -16,7 +16,7 @@
 - If you fail a Hunt, through either having to leave or dying you will not be rewarded, and you will return to downtime. 
 #### Camping:
 - During a hunt you may have many tasks that take longer than one day to do, in this instance you may choose to camp and allow your party to gear up and recover. During this time you may rest and gain their benefits. 
-- You may use [[Downtime Actions]] during this time, however your party may only use 2. 
+- You may use [[Downtime Actions]] during this time, however your party may only use 2. You will not receive any benefits from you sojourn.
 ## Rest:
 - Rest is something all Valor's have to do, without proper recovery people get hurt. There are two type of rest, each with its own benefits.
 #### Full Rest:
