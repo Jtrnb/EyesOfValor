@@ -1,8 +1,6 @@
-- Finish Skill Tree
 - Beast Companion Abilities?
 - Running the Game
 - Character Sheet
-- Make Enemies
 - More Content
 	- Weapons
 	- Enemies
