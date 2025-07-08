@@ -31,10 +31,10 @@ Health is made up from 3 different types that collectively make a characters Hea
 ### Action Attributes & Prerequisites:
 - Action Attributes determine under what conditions some actions may be used.
 - An Attribute determines if an Action can be used under a certain condition.
-- A Prerequisite determines when an Action may be used.
 	- Prone: You may use this action while prone.
 	- Grabbing: You may use this action while grabbing.
 	- Grabbed: You may use this action while being grabbed.
+- A Prerequisite determines when an Action may be used.
 	
 	- Ariel: You may only use this action in the air.
 	- Grounded: You may only use this action on the ground. 

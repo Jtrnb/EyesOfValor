@@ -15,7 +15,7 @@
 ### Conditions:
 #### Hidden:
 - While hidden you may not be targeted by Enemies unless they make a Perception Check above your <span style="font-weight:bold;color:rgb(181, 119, 228)">Active Stealth</span>. If they roll higher than your <span style="font-weight:bold;color:rgb(181, 119, 228)">Active Stealth</span> lose the Hidden Condition.
-- *While Hidden your attacks deal an additional 2 damage*
+- While Hidden your attacks deal an additional 2 damage
 ## Stealth out of Combat:
 - Stealth out of combat revolves around the same system of <span style="font-weight:bold;color:rgb(181, 119, 228)">Active Stealth</span> which may be determined via roll or passive.
 - If a character is attempting to hide or sneak you may have them make a Stealth Check to become their <span style="font-weight:bold;color:rgb(181, 119, 228)">Active Stealth</span>. 
