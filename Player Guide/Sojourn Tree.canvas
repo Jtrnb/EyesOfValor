@@ -379,7 +379,7 @@
 		{
 			"id":"7919adbe57eea767",
 			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"text":"[[Mountains]]",
+			"text":"[[Enhanced Storage]]",
 			"type":"text",
 			"x":480,
 			"y":-280,
@@ -440,7 +440,7 @@
 		{
 			"id":"e2de51836cf3c941",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
+			"text":"[[Safe Storage]]",
 			"type":"text",
 			"x":465,
 			"y":-80,
