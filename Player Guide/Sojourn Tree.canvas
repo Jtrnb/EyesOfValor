@@ -3,6 +3,7 @@
 		{
 			"id":"507d17855722291d",
 			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
+			"toFloating":false,
 			"fromNode":"7587e3e6ac8ad4e0",
 			"fromSide":"bottom",
 			"toNode":"db3865f1208e043a",
@@ -306,7 +307,7 @@
 		{
 			"id":"7587e3e6ac8ad4e0",
 			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"text":"[[Forests]]",
+			"text":"[[Advanced Traversal]]",
 			"type":"text",
 			"x":80,
 			"y":-640,
@@ -389,7 +390,7 @@
 		{
 			"id":"6e913fe6f5006227",
 			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"text":"[[Weather Shielding]]",
+			"text":"[[Environmental  Shielding]]",
 			"type":"text",
 			"x":-320,
 			"y":-280,
