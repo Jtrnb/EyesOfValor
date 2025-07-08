@@ -22,6 +22,6 @@
 - Your Sojourn has unlimited health however when it takes a certain amount of damage you will lose stuff.
 	- When the Sojourn takes 20 damage you lose 2 random items stored within the Sojourn.
 	- When the Sojourn takes 60 damage it loses an Upgrade, which may be repaired.
-- Lost upgrades can be repaired by buying the upgrade again or
+- Lost upgrades can be repaired by buying the upgrade again.
 
 
