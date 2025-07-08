@@ -79,70 +79,6 @@
 			"toSide":"top"
 		},
 		{
-			"id":"f945d42179792f61",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"d9459d4ed67314d7",
-			"fromSide":"top",
-			"toNode":"9f67a2706edc885f",
-			"toSide":"bottom"
-		},
-		{
-			"id":"8b13ced21716192e",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"d9459d4ed67314d7",
-			"fromSide":"top",
-			"toNode":"b9f6aa7a72837522",
-			"toSide":"bottom"
-		},
-		{
-			"id":"8136670984db20d0",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"a1853983f1eb4025",
-			"fromSide":"top",
-			"toNode":"7d1456786ca24943",
-			"toSide":"bottom"
-		},
-		{
-			"id":"0201cd596d0ccff4",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"a1853983f1eb4025",
-			"fromSide":"top",
-			"toNode":"c66fc2072d8714e2",
-			"toSide":"bottom"
-		},
-		{
-			"id":"38e1db4c25f4b64e",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"6bfabfc45ed163e9",
-			"fromSide":"right",
-			"toNode":"77aac8a5d9012497",
-			"toSide":"left"
-		},
-		{
-			"id":"ed2ab549eae81d02",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"6bfabfc45ed163e9",
-			"fromSide":"right",
-			"toNode":"9a1e1b0be77956b2",
-			"toSide":"left"
-		},
-		{
-			"id":"4e9963d78a351546",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"e2de51836cf3c941",
-			"fromSide":"right",
-			"toNode":"49ce914e96cb3589",
-			"toSide":"left"
-		},
-		{
-			"id":"bb2ab178fe6f6210",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"e2de51836cf3c941",
-			"fromSide":"right",
-			"toNode":"c6b817dcfdf061c8",
-			"toSide":"left"
-		},
-		{
 			"id":"5345212743733a54",
 			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
 			"fromNode":"da05be3d668f22af",
@@ -178,44 +114,12 @@
 			"toSide":"left"
 		},
 		{
-			"id":"7dc092362e319d09",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"67b2bd5fb55c8e3e",
-			"fromSide":"bottom",
-			"toNode":"03b7052289072962",
-			"toSide":"top"
-		},
-		{
-			"id":"7212cb500f93bc83",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"67b2bd5fb55c8e3e",
-			"fromSide":"bottom",
-			"toNode":"5ca15e887b5d6ad9",
-			"toSide":"top"
-		},
-		{
 			"id":"411600f7cfb5b839",
 			"styleAttributes":{"arrow":"diamond"},
 			"fromNode":"da05be3d668f22af",
 			"fromSide":"left",
 			"toNode":"dbc6426049f595c7",
 			"toSide":"right"
-		},
-		{
-			"id":"ea207bc952bb1644",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"dbc6426049f595c7",
-			"fromSide":"bottom",
-			"toNode":"57691a8d36e09da6",
-			"toSide":"top"
-		},
-		{
-			"id":"f0463cf026e05516",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"dbc6426049f595c7",
-			"fromSide":"bottom",
-			"toNode":"9bbdc1424120bb6a",
-			"toSide":"top"
 		},
 		{
 			"id":"5e231725f0e169f3",
@@ -262,44 +166,12 @@
 			"toSide":"top"
 		},
 		{
-			"id":"d9a8eb94e72a257e",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"c2a6d6bc4d1b0f80",
-			"fromSide":"left",
-			"toNode":"757ec5e2d1124952",
-			"toSide":"right"
-		},
-		{
-			"id":"418559dd760fc1c6",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"c2a6d6bc4d1b0f80",
-			"fromSide":"left",
-			"toNode":"de35a6d8256d05f4",
-			"toSide":"right"
-		},
-		{
 			"id":"114a0c1519df5776",
 			"styleAttributes":{"arrow":"diamond"},
 			"fromNode":"6e913fe6f5006227",
 			"fromSide":"top",
 			"toNode":"5f5ad952818f74af",
 			"toSide":"bottom"
-		},
-		{
-			"id":"b9ac99ec643607f3",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"5f5ad952818f74af",
-			"fromSide":"left",
-			"toNode":"f3f2073603876e71",
-			"toSide":"right"
-		},
-		{
-			"id":"8f06fe4068f93357",
-			"styleAttributes":{"arrow":"diamond","pathfindingMethod":"square"},
-			"fromNode":"5f5ad952818f74af",
-			"fromSide":"left",
-			"toNode":"8ae454dc3c7f9b61",
-			"toSide":"right"
 		}
 	],
 	"metadata":{"version":"1.0-1.0"},
@@ -449,94 +321,6 @@
 			"color":"#f0dc93"
 		},
 		{
-			"id":"c6b817dcfdf061c8",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":700,
-			"y":20,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"49ce914e96cb3589",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":700,
-			"y":-190,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"9a1e1b0be77956b2",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":700,
-			"y":-310,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"77aac8a5d9012497",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":700,
-			"y":-520,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"7d1456786ca24943",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":200,
-			"y":-780,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"c66fc2072d8714e2",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":425,
-			"y":-780,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"b9f6aa7a72837522",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":-70,
-			"y":-780,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"9f67a2706edc885f",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":-320,
-			"y":-780,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
 			"id":"72c390bb813e1dad",
 			"styleAttributes":{
 				"shape":null,
@@ -571,50 +355,6 @@
 			"type":"text",
 			"x":275,
 			"y":150,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"03b7052289072962",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":200,
-			"y":320,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"5ca15e887b5d6ad9",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":425,
-			"y":320,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"9bbdc1424120bb6a",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":-320,
-			"y":320,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"57691a8d36e09da6",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":-95,
-			"y":320,
 			"width":150,
 			"height":60,
 			"color":"#f0dc93"
@@ -681,39 +421,6 @@
 			"color":"#f0dc93"
 		},
 		{
-			"id":"757ec5e2d1124952",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":-560,
-			"y":20,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"de35a6d8256d05f4",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":-560,
-			"y":-190,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
-			"id":"8ae454dc3c7f9b61",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":-560,
-			"y":-310,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
-		},
-		{
 			"id":"022d0b5f9635a750",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
 			"text":"2pts",
@@ -732,17 +439,6 @@
 			"y":-250,
 			"width":60,
 			"height":60
-		},
-		{
-			"id":"f3f2073603876e71",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
-			"type":"text",
-			"x":-560,
-			"y":-520,
-			"width":150,
-			"height":60,
-			"color":"#f0dc93"
 		},
 		{
 			"id":"8df859fd5ad1a8af",
