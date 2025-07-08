@@ -351,7 +351,7 @@
 		{
 			"id":"67b2bd5fb55c8e3e",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
+			"text":"[[Hunt Simulation]]",
 			"type":"text",
 			"x":275,
 			"y":150,
@@ -362,7 +362,7 @@
 		{
 			"id":"dbc6426049f595c7",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
+			"text":"[[Gym]]",
 			"type":"text",
 			"x":-145,
 			"y":150,
