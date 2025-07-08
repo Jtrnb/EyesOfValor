@@ -401,7 +401,7 @@
 		{
 			"id":"5f5ad952818f74af",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
+			"text":"[[Storm Shields]]",
 			"type":"text",
 			"x":-335,
 			"y":-420,
@@ -412,7 +412,7 @@
 		{
 			"id":"c2a6d6bc4d1b0f80",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"",
+			"text":"[[Temperature Resistance ]]",
 			"type":"text",
 			"x":-335,
 			"y":-80,
