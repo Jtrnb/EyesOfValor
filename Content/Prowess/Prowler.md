@@ -9,7 +9,6 @@
 ### <span style="font-weight:bold;color:rgb(240, 164, 0)">Become Hidden</span>:
 
 #### <span style="font-weight:bold;color:rgb(33, 235, 60)">Action Points</span> Cost: 1
-#### Type: 
 #### Speed: <span style="font-weight:bold; color:rgb(235, 33, 53)">Combative</span>
 #### Duration: Instant
 #### Range: Self
