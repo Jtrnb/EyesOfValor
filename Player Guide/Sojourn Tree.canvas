@@ -421,24 +421,18 @@
 			"color":"#f0dc93"
 		},
 		{
-			"id":"022d0b5f9635a750",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"text":"2pts",
+			"id":"1991ac023ad6d389",
+			"styleAttributes":{
+				"shape":null,
+				"textAlign":"center"
+			},
+			"text":"1 pt",
 			"type":"text",
-			"x":220,
-			"y":-250,
-			"width":80,
-			"height":60
-		},
-		{
-			"id":"7d8d1f7862be171b",
-			"styleAttributes":{"shape":"diamond","textAlign":"center"},
-			"text":"5pts",
-			"type":"text",
-			"x":5,
-			"y":-250,
-			"width":60,
-			"height":60
+			"x":90,
+			"y":-140,
+			"width":100,
+			"height":60,
+			"color":"#6d576b"
 		},
 		{
 			"id":"8df859fd5ad1a8af",
@@ -449,24 +443,20 @@
 			"text":"No Order",
 			"type":"text",
 			"x":90,
-			"y":-310,
+			"y":-360,
 			"width":100,
 			"height":60,
 			"color":"#6d576b"
 		},
 		{
-			"id":"1991ac023ad6d389",
-			"styleAttributes":{
-				"shape":null,
-				"textAlign":"center"
-			},
-			"text":"1 pt",
+			"id":"022d0b5f9635a750",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"text":"2pts",
 			"type":"text",
-			"x":90,
-			"y":-190,
-			"width":100,
-			"height":60,
-			"color":"#6d576b"
+			"x":100,
+			"y":-250,
+			"width":80,
+			"height":60
 		}
 	]
 }
