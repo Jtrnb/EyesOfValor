@@ -14,3 +14,4 @@
 #### Range: Self
 #### Effects:
 - You may take the [[Combat#Hiding (<span style="font-weight bold; color rgb(235, 33, 53)">Combative</span>):|Hide]] action while in plain sight without a penalty, you will be revealed once an enemy takes an action.
+
