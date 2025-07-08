@@ -419,6 +419,7 @@
       "y": -640
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "a1853983f1eb4025",
       "styleAttributes": {
@@ -460,6 +461,7 @@
       "y": -480
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "d9459d4ed67314d7",
       "styleAttributes": {
@@ -543,6 +545,7 @@
       "y": -160
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "6bfabfc45ed163e9",
       "styleAttributes": {
@@ -556,45 +559,49 @@
       "y": -420
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "e2de51836cf3c941",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Wind Shields]]",
       "type": "text",
       "width": 150,
       "x": 465,
       "y": -80
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "c6b817dcfdf061c8",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Snow Gear]]",
       "type": "text",
       "width": 150,
       "x": 700,
       "y": 20
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "49ce914e96cb3589",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Oxygen Generator]]",
       "type": "text",
       "width": 150,
       "x": 700,
       "y": -190
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "9a1e1b0be77956b2",
       "styleAttributes": {
@@ -608,6 +615,7 @@
       "y": -310
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "77aac8a5d9012497",
       "styleAttributes": {
@@ -621,6 +629,7 @@
       "y": -520
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "7d1456786ca24943",
       "styleAttributes": {
@@ -634,6 +643,7 @@
       "y": -780
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "c66fc2072d8714e2",
       "styleAttributes": {
@@ -647,6 +657,7 @@
       "y": -780
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "b9f6aa7a72837522",
       "styleAttributes": {
@@ -660,6 +671,7 @@
       "y": -780
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "9f67a2706edc885f",
       "styleAttributes": {
@@ -701,6 +713,7 @@
       "y": -10
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "67b2bd5fb55c8e3e",
       "styleAttributes": {
@@ -714,19 +727,21 @@
       "y": 150
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "03b7052289072962",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Shark Cage]]",
       "type": "text",
       "width": 150,
       "x": 200,
       "y": 320
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "5ca15e887b5d6ad9",
       "styleAttributes": {
@@ -740,6 +755,7 @@
       "y": 320
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "9bbdc1424120bb6a",
       "styleAttributes": {
@@ -753,19 +769,21 @@
       "y": 320
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "57691a8d36e09da6",
       "styleAttributes": {
         "shape": "pill",
         "textAlign": "center"
       },
-      "text": "",
+      "text": "[[Current Tracker]]",
       "type": "text",
       "width": 150,
       "x": -95,
       "y": 320
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "dbc6426049f595c7",
       "styleAttributes": {
@@ -807,6 +825,7 @@
       "y": -160
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "5f5ad952818f74af",
       "styleAttributes": {
@@ -820,6 +839,7 @@
       "y": -420
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "c2a6d6bc4d1b0f80",
       "styleAttributes": {
@@ -833,6 +853,7 @@
       "y": -80
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "757ec5e2d1124952",
       "styleAttributes": {
@@ -846,6 +867,7 @@
       "y": 20
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "de35a6d8256d05f4",
       "styleAttributes": {
@@ -859,6 +881,7 @@
       "y": -190
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "8ae454dc3c7f9b61",
       "styleAttributes": {
@@ -898,6 +921,7 @@
       "y": -250
     },
     {
+      "color": "#f0dc93",
       "height": 60,
       "id": "f3f2073603876e71",
       "styleAttributes": {
