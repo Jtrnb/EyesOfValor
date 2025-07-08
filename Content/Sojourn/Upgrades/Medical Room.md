@@ -1,1 +1,1 @@
-Bonus to clearning injuries and multiple injuries. 
+Bonus to clearing injuries and multiple injuries. 
