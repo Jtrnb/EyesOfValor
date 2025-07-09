@@ -62,4 +62,5 @@
 - If you have proficiency with a weapon you may add the bonus of the <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> to the roll.
 - Unlike <span style="font-weight:bold; color:rgb(33, 235, 60)">Stat</span> checks, Attack checks are made against the Damage Avoidance of another creature as its CL. 
 - The attack or weapon or Prowess abilities may grant extra bonuses to using certain attacks, granting a higher chance of success.
+#### Critical Hits:
 - If you roll doubles for an attack roll, that is a Critical Hit and deals double damage
