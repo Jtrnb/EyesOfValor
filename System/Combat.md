@@ -148,6 +148,10 @@ Ex.
 #### Weapons:
 - Weapons are tools that may be used to harm your enemies.
 - Weapons fall into 3 main categories, Small, Medium and Large. With each category varying in capability, including melee and range. 
+#### Ranged Weapons:
+- Ranges weapons may have a maximum and minimum range.
+- Attacks made outside of the maximum range have disadvantage and do half damage.
+- Attacks made below the minimum range do an additional 2d4 damage and are made at disadvantage. 
 #### Proficiency:
 - Having proficiency with a weapon allows the user to use the Scaling Stat of a weapon when using it. 
 - If you do not have Proficiency with a weapon you do not use the Scaling Stat and [[Dice Checks and Rolls#Attack Checks|Attack Checks]] are simple made with the dice poll of the stat, without the bonus. 
